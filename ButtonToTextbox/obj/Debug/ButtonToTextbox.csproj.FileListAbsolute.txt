@@ -1,0 +1,10 @@
+C:\Users\Sysdev\source\repos\ButtonToTextbox\bin\Debug\ButtonToTextbox.exe.config
+C:\Users\Sysdev\source\repos\ButtonToTextbox\bin\Debug\ButtonToTextbox.exe
+C:\Users\Sysdev\source\repos\ButtonToTextbox\bin\Debug\ButtonToTextbox.pdb
+C:\Users\Sysdev\source\repos\ButtonToTextbox\obj\Debug\ButtonToTextbox.csprojAssemblyReference.cache
+C:\Users\Sysdev\source\repos\ButtonToTextbox\obj\Debug\ButtonToTextbox.Form1.resources
+C:\Users\Sysdev\source\repos\ButtonToTextbox\obj\Debug\ButtonToTextbox.Properties.Resources.resources
+C:\Users\Sysdev\source\repos\ButtonToTextbox\obj\Debug\ButtonToTextbox.csproj.GenerateResource.cache
+C:\Users\Sysdev\source\repos\ButtonToTextbox\obj\Debug\ButtonToTextbox.csproj.CoreCompileInputs.cache
+C:\Users\Sysdev\source\repos\ButtonToTextbox\obj\Debug\ButtonToTextbox.exe
+C:\Users\Sysdev\source\repos\ButtonToTextbox\obj\Debug\ButtonToTextbox.pdb

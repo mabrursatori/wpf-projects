@@ -1,0 +1,11 @@
+C:\Users\Sysdev\source\repos\SoalTestMurniC\bin\Debug\SoalTestMurniC.exe.config
+C:\Users\Sysdev\source\repos\SoalTestMurniC\bin\Debug\SoalTestMurniC.exe
+C:\Users\Sysdev\source\repos\SoalTestMurniC\bin\Debug\SoalTestMurniC.pdb
+C:\Users\Sysdev\source\repos\SoalTestMurniC\obj\Debug\SoalTestMurniC.csprojAssemblyReference.cache
+C:\Users\Sysdev\source\repos\SoalTestMurniC\obj\Debug\SoalTestMurniC.Sales_Order_Input.resources
+C:\Users\Sysdev\source\repos\SoalTestMurniC\obj\Debug\SoalTestMurniC.Form1.resources
+C:\Users\Sysdev\source\repos\SoalTestMurniC\obj\Debug\SoalTestMurniC.Properties.Resources.resources
+C:\Users\Sysdev\source\repos\SoalTestMurniC\obj\Debug\SoalTestMurniC.csproj.GenerateResource.cache
+C:\Users\Sysdev\source\repos\SoalTestMurniC\obj\Debug\SoalTestMurniC.csproj.CoreCompileInputs.cache
+C:\Users\Sysdev\source\repos\SoalTestMurniC\obj\Debug\SoalTestMurniC.exe
+C:\Users\Sysdev\source\repos\SoalTestMurniC\obj\Debug\SoalTestMurniC.pdb

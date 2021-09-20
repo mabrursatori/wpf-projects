@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DB_DEMOModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="COM_CUSTOMER">
+    <Key>
+      <PropertyRef Name="COM_CUSTOMER_ID" />
+    </Key>
+    <Property Name="COM_CUSTOMER_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="CUSTOMER_NAME" Type="varchar" MaxLength="100" />
+  </EntityType>
+  <EntityType Name="SALES_SO">
+    <Key>
+      <PropertyRef Name="SALES_SO_ID" />
+    </Key>
+    <Property Name="SALES_SO_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="SO_NO" Type="varchar" MaxLength="20" />
+    <Property Name="ORDER_DATE" Type="datetime" />
+    <Property Name="COM_CUSTOMER_ID" Type="int" />
+    <Property Name="ADDRESS" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="SALES_SO_LITEM">
+    <Key>
+      <PropertyRef Name="SALES_SO_LITEM_ID" />
+    </Key>
+    <Property Name="SALES_SO_LITEM_ID" Type="int" Nullable="false" />
+    <Property Name="SALES_SO_ID" Type="int" />
+    <Property Name="ITEM_NAME" Type="varchar" MaxLength="100" />
+    <Property Name="QUANTITY" Type="int" />
+    <Property Name="PRICE" Type="float" />
+  </EntityType>
+  <Association Name="FK_SALES_SO_COM_CUSTOMER">
+    <End Role="COM_CUSTOMER" Type="Self.COM_CUSTOMER" Multiplicity="0..1" />
+    <End Role="SALES_SO" Type="Self.SALES_SO" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="COM_CUSTOMER">
+        <PropertyRef Name="COM_CUSTOMER_ID" />
+      </Principal>
+      <Dependent Role="SALES_SO">
+        <PropertyRef Name="COM_CUSTOMER_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_SALES_SO_LITEM_SALES_SO">
+    <End Role="SALES_SO" Type="Self.SALES_SO" Multiplicity="0..1" />
+    <End Role="SALES_SO_LITEM" Type="Self.SALES_SO_LITEM" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="SALES_SO">
+        <PropertyRef Name="SALES_SO_ID" />
+      </Principal>
+      <Dependent Role="SALES_SO_LITEM">
+        <PropertyRef Name="SALES_SO_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="DB_DEMOModelStoreContainer">
+    <EntitySet Name="COM_CUSTOMER" EntityType="Self.COM_CUSTOMER" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="SALES_SO" EntityType="Self.SALES_SO" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="SALES_SO_LITEM" EntityType="Self.SALES_SO_LITEM" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_SALES_SO_COM_CUSTOMER" Association="Self.FK_SALES_SO_COM_CUSTOMER">
+      <End Role="COM_CUSTOMER" EntitySet="COM_CUSTOMER" />
+      <End Role="SALES_SO" EntitySet="SALES_SO" />
+    </AssociationSet>
+    <AssociationSet Name="FK_SALES_SO_LITEM_SALES_SO" Association="Self.FK_SALES_SO_LITEM_SALES_SO">
+      <End Role="SALES_SO" EntitySet="SALES_SO" />
+      <End Role="SALES_SO_LITEM" EntitySet="SALES_SO_LITEM" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

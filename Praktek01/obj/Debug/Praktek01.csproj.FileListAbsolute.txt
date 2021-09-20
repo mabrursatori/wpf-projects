@@ -1,0 +1,10 @@
+C:\Users\Sysdev\source\repos\Praktek01\bin\Debug\Praktek01.exe.config
+C:\Users\Sysdev\source\repos\Praktek01\bin\Debug\Praktek01.exe
+C:\Users\Sysdev\source\repos\Praktek01\bin\Debug\Praktek01.pdb
+C:\Users\Sysdev\source\repos\Praktek01\obj\Debug\Praktek01.csprojAssemblyReference.cache
+C:\Users\Sysdev\source\repos\Praktek01\obj\Debug\Praktek01.Form1.resources
+C:\Users\Sysdev\source\repos\Praktek01\obj\Debug\Praktek01.Properties.Resources.resources
+C:\Users\Sysdev\source\repos\Praktek01\obj\Debug\Praktek01.csproj.GenerateResource.cache
+C:\Users\Sysdev\source\repos\Praktek01\obj\Debug\Praktek01.csproj.CoreCompileInputs.cache
+C:\Users\Sysdev\source\repos\Praktek01\obj\Debug\Praktek01.exe
+C:\Users\Sysdev\source\repos\Praktek01\obj\Debug\Praktek01.pdb

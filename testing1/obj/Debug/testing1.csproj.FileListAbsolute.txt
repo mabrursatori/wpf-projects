@@ -1,0 +1,10 @@
+C:\Users\Sysdev\source\repos\testing1\bin\Debug\testing1.exe.config
+C:\Users\Sysdev\source\repos\testing1\bin\Debug\testing1.exe
+C:\Users\Sysdev\source\repos\testing1\bin\Debug\testing1.pdb
+C:\Users\Sysdev\source\repos\testing1\obj\Debug\testing1.csprojAssemblyReference.cache
+C:\Users\Sysdev\source\repos\testing1\obj\Debug\testing1.Form1.resources
+C:\Users\Sysdev\source\repos\testing1\obj\Debug\testing1.Properties.Resources.resources
+C:\Users\Sysdev\source\repos\testing1\obj\Debug\testing1.csproj.GenerateResource.cache
+C:\Users\Sysdev\source\repos\testing1\obj\Debug\testing1.csproj.CoreCompileInputs.cache
+C:\Users\Sysdev\source\repos\testing1\obj\Debug\testing1.exe
+C:\Users\Sysdev\source\repos\testing1\obj\Debug\testing1.pdb

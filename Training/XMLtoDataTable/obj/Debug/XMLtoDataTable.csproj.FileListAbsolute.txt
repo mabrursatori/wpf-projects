@@ -1,0 +1,11 @@
+C:\Users\Sysdev\source\repos\Training\XMLtoDataTable\bin\Debug\XMLtoDataTable.exe.config
+C:\Users\Sysdev\source\repos\Training\XMLtoDataTable\bin\Debug\XMLtoDataTable.exe
+C:\Users\Sysdev\source\repos\Training\XMLtoDataTable\bin\Debug\XMLtoDataTable.pdb
+C:\Users\Sysdev\source\repos\Training\XMLtoDataTable\obj\Debug\XMLtoDataTable.csprojAssemblyReference.cache
+C:\Users\Sysdev\source\repos\Training\XMLtoDataTable\obj\Debug\XMLtoDataTable.Form1.resources
+C:\Users\Sysdev\source\repos\Training\XMLtoDataTable\obj\Debug\XMLtoDataTable.Properties.Resources.resources
+C:\Users\Sysdev\source\repos\Training\XMLtoDataTable\obj\Debug\XMLtoDataTable.csproj.GenerateResource.cache
+C:\Users\Sysdev\source\repos\Training\XMLtoDataTable\obj\Debug\XMLtoDataTable.csproj.CoreCompileInputs.cache
+C:\Users\Sysdev\source\repos\Training\XMLtoDataTable\obj\Debug\XMLtoDataTable.exe
+C:\Users\Sysdev\source\repos\Training\XMLtoDataTable\obj\Debug\XMLtoDataTable.pdb
+C:\Users\Sysdev\source\repos\Training\XMLtoDataTable\bin\Debug\Latihan.xml

@@ -1,0 +1,10 @@
+C:\Users\Sysdev\source\repos\Looping Data Set\bin\Debug\Looping Data Set.exe.config
+C:\Users\Sysdev\source\repos\Looping Data Set\bin\Debug\Looping Data Set.exe
+C:\Users\Sysdev\source\repos\Looping Data Set\bin\Debug\Looping Data Set.pdb
+C:\Users\Sysdev\source\repos\Looping Data Set\obj\Debug\Looping Data Set.csprojAssemblyReference.cache
+C:\Users\Sysdev\source\repos\Looping Data Set\obj\Debug\Looping_Data_Set.Form1.resources
+C:\Users\Sysdev\source\repos\Looping Data Set\obj\Debug\Looping_Data_Set.Properties.Resources.resources
+C:\Users\Sysdev\source\repos\Looping Data Set\obj\Debug\Looping Data Set.csproj.GenerateResource.cache
+C:\Users\Sysdev\source\repos\Looping Data Set\obj\Debug\Looping Data Set.csproj.CoreCompileInputs.cache
+C:\Users\Sysdev\source\repos\Looping Data Set\obj\Debug\Looping Data Set.exe
+C:\Users\Sysdev\source\repos\Looping Data Set\obj\Debug\Looping Data Set.pdb

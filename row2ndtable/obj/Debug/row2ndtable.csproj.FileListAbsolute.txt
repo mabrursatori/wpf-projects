@@ -1,0 +1,11 @@
+C:\Users\Sysdev\source\repos\row2ndtable\bin\Debug\row2ndtable.exe.config
+C:\Users\Sysdev\source\repos\row2ndtable\bin\Debug\row2ndtable.exe
+C:\Users\Sysdev\source\repos\row2ndtable\bin\Debug\row2ndtable.pdb
+C:\Users\Sysdev\source\repos\row2ndtable\obj\Debug\row2ndtable.csprojAssemblyReference.cache
+C:\Users\Sysdev\source\repos\row2ndtable\obj\Debug\row2ndtable.Form1.resources
+C:\Users\Sysdev\source\repos\row2ndtable\obj\Debug\row2ndtable.Properties.Resources.resources
+C:\Users\Sysdev\source\repos\row2ndtable\obj\Debug\row2ndtable.csproj.GenerateResource.cache
+C:\Users\Sysdev\source\repos\row2ndtable\obj\Debug\row2ndtable.csproj.CoreCompileInputs.cache
+C:\Users\Sysdev\source\repos\row2ndtable\obj\Debug\row2ndtable.exe
+C:\Users\Sysdev\source\repos\row2ndtable\obj\Debug\row2ndtable.pdb
+C:\Users\Sysdev\source\repos\row2ndtable\bin\Debug\ConfigAPI.xml

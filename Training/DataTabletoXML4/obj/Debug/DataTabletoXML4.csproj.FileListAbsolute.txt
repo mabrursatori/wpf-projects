@@ -1,0 +1,10 @@
+C:\Users\Sysdev\source\repos\Training\DataTabletoXML4\bin\Debug\DataTabletoXML4.exe.config
+C:\Users\Sysdev\source\repos\Training\DataTabletoXML4\bin\Debug\DataTabletoXML4.exe
+C:\Users\Sysdev\source\repos\Training\DataTabletoXML4\bin\Debug\DataTabletoXML4.pdb
+C:\Users\Sysdev\source\repos\Training\DataTabletoXML4\obj\Debug\DataTabletoXML4.csprojAssemblyReference.cache
+C:\Users\Sysdev\source\repos\Training\DataTabletoXML4\obj\Debug\DataTabletoXML4.Form1.resources
+C:\Users\Sysdev\source\repos\Training\DataTabletoXML4\obj\Debug\DataTabletoXML4.Properties.Resources.resources
+C:\Users\Sysdev\source\repos\Training\DataTabletoXML4\obj\Debug\DataTabletoXML4.csproj.GenerateResource.cache
+C:\Users\Sysdev\source\repos\Training\DataTabletoXML4\obj\Debug\DataTabletoXML4.csproj.CoreCompileInputs.cache
+C:\Users\Sysdev\source\repos\Training\DataTabletoXML4\obj\Debug\DataTabletoXML4.exe
+C:\Users\Sysdev\source\repos\Training\DataTabletoXML4\obj\Debug\DataTabletoXML4.pdb

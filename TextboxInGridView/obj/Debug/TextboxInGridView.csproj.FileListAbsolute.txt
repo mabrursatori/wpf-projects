@@ -1,0 +1,10 @@
+C:\Users\Sysdev\source\repos\TextboxInGridView\bin\Debug\TextboxInGridView.exe.config
+C:\Users\Sysdev\source\repos\TextboxInGridView\bin\Debug\TextboxInGridView.exe
+C:\Users\Sysdev\source\repos\TextboxInGridView\bin\Debug\TextboxInGridView.pdb
+C:\Users\Sysdev\source\repos\TextboxInGridView\obj\Debug\TextboxInGridView.csprojAssemblyReference.cache
+C:\Users\Sysdev\source\repos\TextboxInGridView\obj\Debug\TextboxInGridView.Form1.resources
+C:\Users\Sysdev\source\repos\TextboxInGridView\obj\Debug\TextboxInGridView.Properties.Resources.resources
+C:\Users\Sysdev\source\repos\TextboxInGridView\obj\Debug\TextboxInGridView.csproj.GenerateResource.cache
+C:\Users\Sysdev\source\repos\TextboxInGridView\obj\Debug\TextboxInGridView.csproj.CoreCompileInputs.cache
+C:\Users\Sysdev\source\repos\TextboxInGridView\obj\Debug\TextboxInGridView.exe
+C:\Users\Sysdev\source\repos\TextboxInGridView\obj\Debug\TextboxInGridView.pdb

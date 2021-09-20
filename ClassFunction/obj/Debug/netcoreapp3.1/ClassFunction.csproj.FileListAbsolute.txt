@@ -1,0 +1,12 @@
+C:\Users\Sysdev\source\repos\ClassFunction\bin\Debug\netcoreapp3.1\ClassFunction.exe
+C:\Users\Sysdev\source\repos\ClassFunction\bin\Debug\netcoreapp3.1\ClassFunction.deps.json
+C:\Users\Sysdev\source\repos\ClassFunction\bin\Debug\netcoreapp3.1\ClassFunction.runtimeconfig.json
+C:\Users\Sysdev\source\repos\ClassFunction\bin\Debug\netcoreapp3.1\ClassFunction.runtimeconfig.dev.json
+C:\Users\Sysdev\source\repos\ClassFunction\bin\Debug\netcoreapp3.1\ClassFunction.dll
+C:\Users\Sysdev\source\repos\ClassFunction\bin\Debug\netcoreapp3.1\ClassFunction.pdb
+C:\Users\Sysdev\source\repos\ClassFunction\obj\Debug\netcoreapp3.1\ClassFunction.csprojAssemblyReference.cache
+C:\Users\Sysdev\source\repos\ClassFunction\obj\Debug\netcoreapp3.1\ClassFunction.AssemblyInfoInputs.cache
+C:\Users\Sysdev\source\repos\ClassFunction\obj\Debug\netcoreapp3.1\ClassFunction.AssemblyInfo.cs
+C:\Users\Sysdev\source\repos\ClassFunction\obj\Debug\netcoreapp3.1\ClassFunction.dll
+C:\Users\Sysdev\source\repos\ClassFunction\obj\Debug\netcoreapp3.1\ClassFunction.pdb
+C:\Users\Sysdev\source\repos\ClassFunction\obj\Debug\netcoreapp3.1\ClassFunction.genruntimeconfig.cache

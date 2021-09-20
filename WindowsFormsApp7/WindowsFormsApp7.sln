@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp7", "WindowsFormsApp7.csproj", "{685B571C-1F4D-46A9-8FEF-08D7077C7423}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp8", "..\WindowsFormsApp8\WindowsFormsApp8.csproj", "{7343A4EB-245F-4FFF-8713-DBF8773E2C37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebCam", "..\WebCam\WebCam.csproj", "{8BBB6C4B-84C9-4474-BFBB-F1F44DC95F74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfCamera", "..\WpfCamera\WpfCamera.csproj", "{6A46A6EC-330B-452E-91D3-B2F0B2CF7FA4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{685B571C-1F4D-46A9-8FEF-08D7077C7423}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{685B571C-1F4D-46A9-8FEF-08D7077C7423}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{685B571C-1F4D-46A9-8FEF-08D7077C7423}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{685B571C-1F4D-46A9-8FEF-08D7077C7423}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7343A4EB-245F-4FFF-8713-DBF8773E2C37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7343A4EB-245F-4FFF-8713-DBF8773E2C37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7343A4EB-245F-4FFF-8713-DBF8773E2C37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7343A4EB-245F-4FFF-8713-DBF8773E2C37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BBB6C4B-84C9-4474-BFBB-F1F44DC95F74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BBB6C4B-84C9-4474-BFBB-F1F44DC95F74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BBB6C4B-84C9-4474-BFBB-F1F44DC95F74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BBB6C4B-84C9-4474-BFBB-F1F44DC95F74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A46A6EC-330B-452E-91D3-B2F0B2CF7FA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A46A6EC-330B-452E-91D3-B2F0B2CF7FA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A46A6EC-330B-452E-91D3-B2F0B2CF7FA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A46A6EC-330B-452E-91D3-B2F0B2CF7FA4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {119E2C44-E647-45ED-B713-E5B9606636F5}
+	EndGlobalSection
+EndGlobal

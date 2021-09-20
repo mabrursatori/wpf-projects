@@ -1,0 +1,15 @@
+C:\Users\Sysdev\source\repos\wpf_project\bin\Debug\wpf_project.exe.config
+C:\Users\Sysdev\source\repos\wpf_project\bin\Debug\wpf_project.exe
+C:\Users\Sysdev\source\repos\wpf_project\bin\Debug\wpf_project.pdb
+C:\Users\Sysdev\source\repos\wpf_project\obj\Debug\wpf_project.csprojAssemblyReference.cache
+C:\Users\Sysdev\source\repos\wpf_project\obj\Debug\MainWindow.g.cs
+C:\Users\Sysdev\source\repos\wpf_project\obj\Debug\App.g.cs
+C:\Users\Sysdev\source\repos\wpf_project\obj\Debug\wpf_project_MarkupCompile.cache
+C:\Users\Sysdev\source\repos\wpf_project\obj\Debug\wpf_project_MarkupCompile.lref
+C:\Users\Sysdev\source\repos\wpf_project\obj\Debug\MainWindow.baml
+C:\Users\Sysdev\source\repos\wpf_project\obj\Debug\wpf_project.g.resources
+C:\Users\Sysdev\source\repos\wpf_project\obj\Debug\wpf_project.Properties.Resources.resources
+C:\Users\Sysdev\source\repos\wpf_project\obj\Debug\wpf_project.csproj.GenerateResource.cache
+C:\Users\Sysdev\source\repos\wpf_project\obj\Debug\wpf_project.csproj.CoreCompileInputs.cache
+C:\Users\Sysdev\source\repos\wpf_project\obj\Debug\wpf_project.exe
+C:\Users\Sysdev\source\repos\wpf_project\obj\Debug\wpf_project.pdb

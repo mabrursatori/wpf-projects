@@ -1,0 +1,11 @@
+C:\Users\Sysdev\source\repos\LatihanSearchDateText\bin\Debug\LatihanSearchDateText.exe.config
+C:\Users\Sysdev\source\repos\LatihanSearchDateText\bin\Debug\LatihanSearchDateText.exe
+C:\Users\Sysdev\source\repos\LatihanSearchDateText\bin\Debug\LatihanSearchDateText.pdb
+C:\Users\Sysdev\source\repos\LatihanSearchDateText\obj\Debug\LatihanSearchDateText.csprojAssemblyReference.cache
+C:\Users\Sysdev\source\repos\LatihanSearchDateText\obj\Debug\LatihanSearchDateText.Form1.resources
+C:\Users\Sysdev\source\repos\LatihanSearchDateText\obj\Debug\LatihanSearchDateText.Properties.Resources.resources
+C:\Users\Sysdev\source\repos\LatihanSearchDateText\obj\Debug\LatihanSearchDateText.csproj.GenerateResource.cache
+C:\Users\Sysdev\source\repos\LatihanSearchDateText\obj\Debug\LatihanSearchDateText.csproj.CoreCompileInputs.cache
+C:\Users\Sysdev\source\repos\LatihanSearchDateText\obj\Debug\LatihanSearchDateText.exe
+C:\Users\Sysdev\source\repos\LatihanSearchDateText\obj\Debug\LatihanSearchDateText.pdb
+C:\Users\Sysdev\source\repos\LatihanSearchDateText\obj\Debug\LatihanSearchDateText.NilaiValue.resources

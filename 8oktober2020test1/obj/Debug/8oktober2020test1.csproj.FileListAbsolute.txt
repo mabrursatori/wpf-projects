@@ -1,0 +1,10 @@
+C:\Users\Sysdev\source\repos\8oktober2020test1\bin\Debug\8oktober2020test1.exe.config
+C:\Users\Sysdev\source\repos\8oktober2020test1\bin\Debug\8oktober2020test1.exe
+C:\Users\Sysdev\source\repos\8oktober2020test1\bin\Debug\8oktober2020test1.pdb
+C:\Users\Sysdev\source\repos\8oktober2020test1\obj\Debug\8oktober2020test1.csprojAssemblyReference.cache
+C:\Users\Sysdev\source\repos\8oktober2020test1\obj\Debug\_8oktober2020test1.Form1.resources
+C:\Users\Sysdev\source\repos\8oktober2020test1\obj\Debug\_8oktober2020test1.Properties.Resources.resources
+C:\Users\Sysdev\source\repos\8oktober2020test1\obj\Debug\8oktober2020test1.csproj.GenerateResource.cache
+C:\Users\Sysdev\source\repos\8oktober2020test1\obj\Debug\8oktober2020test1.csproj.CoreCompileInputs.cache
+C:\Users\Sysdev\source\repos\8oktober2020test1\obj\Debug\8oktober2020test1.exe
+C:\Users\Sysdev\source\repos\8oktober2020test1\obj\Debug\8oktober2020test1.pdb

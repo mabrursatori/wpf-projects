@@ -1,0 +1,6 @@
+C:\Users\Sysdev\source\repos\LinQQ\bin\Debug\LinQQ.exe.config
+C:\Users\Sysdev\source\repos\LinQQ\bin\Debug\LinQQ.exe
+C:\Users\Sysdev\source\repos\LinQQ\bin\Debug\LinQQ.pdb
+C:\Users\Sysdev\source\repos\LinQQ\obj\Debug\LinQQ.csproj.CoreCompileInputs.cache
+C:\Users\Sysdev\source\repos\LinQQ\obj\Debug\LinQQ.exe
+C:\Users\Sysdev\source\repos\LinQQ\obj\Debug\LinQQ.pdb

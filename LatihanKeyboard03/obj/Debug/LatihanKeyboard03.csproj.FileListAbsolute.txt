@@ -1,0 +1,10 @@
+C:\Users\Sysdev\source\repos\LatihanKeyboard03\bin\Debug\LatihanKeyboard03.exe.config
+C:\Users\Sysdev\source\repos\LatihanKeyboard03\bin\Debug\LatihanKeyboard03.exe
+C:\Users\Sysdev\source\repos\LatihanKeyboard03\bin\Debug\LatihanKeyboard03.pdb
+C:\Users\Sysdev\source\repos\LatihanKeyboard03\obj\Debug\LatihanKeyboard03.csprojAssemblyReference.cache
+C:\Users\Sysdev\source\repos\LatihanKeyboard03\obj\Debug\LatihanKeyboard03.Form1.resources
+C:\Users\Sysdev\source\repos\LatihanKeyboard03\obj\Debug\LatihanKeyboard03.Properties.Resources.resources
+C:\Users\Sysdev\source\repos\LatihanKeyboard03\obj\Debug\LatihanKeyboard03.csproj.GenerateResource.cache
+C:\Users\Sysdev\source\repos\LatihanKeyboard03\obj\Debug\LatihanKeyboard03.csproj.CoreCompileInputs.cache
+C:\Users\Sysdev\source\repos\LatihanKeyboard03\obj\Debug\LatihanKeyboard03.exe
+C:\Users\Sysdev\source\repos\LatihanKeyboard03\obj\Debug\LatihanKeyboard03.pdb

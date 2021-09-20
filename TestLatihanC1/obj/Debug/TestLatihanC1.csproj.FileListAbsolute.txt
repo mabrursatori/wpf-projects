@@ -1,0 +1,15 @@
+C:\Users\Sysdev\source\repos\TestLatihanC1\bin\Debug\TestLatihanC1.exe.config
+C:\Users\Sysdev\source\repos\TestLatihanC1\bin\Debug\TestLatihanC1.exe
+C:\Users\Sysdev\source\repos\TestLatihanC1\bin\Debug\TestLatihanC1.pdb
+C:\Users\Sysdev\source\repos\TestLatihanC1\obj\Debug\TestLatihanC1.csprojAssemblyReference.cache
+C:\Users\Sysdev\source\repos\TestLatihanC1\obj\Debug\TestLatihanC1.Form1.resources
+C:\Users\Sysdev\source\repos\TestLatihanC1\obj\Debug\TestLatihanC1.Properties.Resources.resources
+C:\Users\Sysdev\source\repos\TestLatihanC1\obj\Debug\TestLatihanC1.csproj.GenerateResource.cache
+C:\Users\Sysdev\source\repos\TestLatihanC1\obj\Debug\TestLatihanC1.csproj.CoreCompileInputs.cache
+C:\Users\Sysdev\source\repos\TestLatihanC1\obj\Debug\TestLatihanC1.exe
+C:\Users\Sysdev\source\repos\TestLatihanC1\obj\Debug\TestLatihanC1.pdb
+C:\Users\Sysdev\source\repos\TestLatihanC1\bin\Debug\EntityFramework.dll
+C:\Users\Sysdev\source\repos\TestLatihanC1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sysdev\source\repos\TestLatihanC1\bin\Debug\EntityFramework.xml
+C:\Users\Sysdev\source\repos\TestLatihanC1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sysdev\source\repos\TestLatihanC1\obj\Debug\TestLatihanC1.csproj.CopyComplete

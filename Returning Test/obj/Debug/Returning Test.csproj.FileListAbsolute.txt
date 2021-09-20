@@ -1,0 +1,10 @@
+C:\Users\Sysdev\source\repos\Returning Test\bin\Debug\Returning Test.exe.config
+C:\Users\Sysdev\source\repos\Returning Test\bin\Debug\Returning Test.exe
+C:\Users\Sysdev\source\repos\Returning Test\bin\Debug\Returning Test.pdb
+C:\Users\Sysdev\source\repos\Returning Test\obj\Debug\Returning Test.csprojAssemblyReference.cache
+C:\Users\Sysdev\source\repos\Returning Test\obj\Debug\Returning_Test.Form1.resources
+C:\Users\Sysdev\source\repos\Returning Test\obj\Debug\Returning_Test.Properties.Resources.resources
+C:\Users\Sysdev\source\repos\Returning Test\obj\Debug\Returning Test.csproj.GenerateResource.cache
+C:\Users\Sysdev\source\repos\Returning Test\obj\Debug\Returning Test.csproj.CoreCompileInputs.cache
+C:\Users\Sysdev\source\repos\Returning Test\obj\Debug\Returning Test.exe
+C:\Users\Sysdev\source\repos\Returning Test\obj\Debug\Returning Test.pdb

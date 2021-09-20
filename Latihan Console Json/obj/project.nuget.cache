@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2Hxs8ku2SCIFe9RhdrYs8OT/wX4Cerw5ODHU2FNvy+44UjB1EUmUvgajT8NTGCyqft8La3ttgY6f4cOnPaEgDQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sysdev\\source\\repos\\Latihan Console Json\\Latihan Console Json.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sysdev\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

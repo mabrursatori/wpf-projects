@@ -1,0 +1,15 @@
+C:\Users\Sysdev\source\repos\ProjectConsoleDiSini\bin\Debug\netcoreapp3.1\ProjectConsoleDiSini.exe
+C:\Users\Sysdev\source\repos\ProjectConsoleDiSini\bin\Debug\netcoreapp3.1\ProjectConsoleDiSini.deps.json
+C:\Users\Sysdev\source\repos\ProjectConsoleDiSini\bin\Debug\netcoreapp3.1\ProjectConsoleDiSini.runtimeconfig.json
+C:\Users\Sysdev\source\repos\ProjectConsoleDiSini\bin\Debug\netcoreapp3.1\ProjectConsoleDiSini.runtimeconfig.dev.json
+C:\Users\Sysdev\source\repos\ProjectConsoleDiSini\bin\Debug\netcoreapp3.1\ProjectConsoleDiSini.dll
+C:\Users\Sysdev\source\repos\ProjectConsoleDiSini\bin\Debug\netcoreapp3.1\ProjectConsoleDiSini.pdb
+C:\Users\Sysdev\source\repos\ProjectConsoleDiSini\obj\Debug\netcoreapp3.1\ProjectConsoleDiSini.csprojAssemblyReference.cache
+C:\Users\Sysdev\source\repos\ProjectConsoleDiSini\obj\Debug\netcoreapp3.1\ProjectConsoleDiSini.AssemblyInfoInputs.cache
+C:\Users\Sysdev\source\repos\ProjectConsoleDiSini\obj\Debug\netcoreapp3.1\ProjectConsoleDiSini.AssemblyInfo.cs
+C:\Users\Sysdev\source\repos\ProjectConsoleDiSini\obj\Debug\netcoreapp3.1\ProjectConsoleDiSini.dll
+C:\Users\Sysdev\source\repos\ProjectConsoleDiSini\obj\Debug\netcoreapp3.1\ProjectConsoleDiSini.pdb
+C:\Users\Sysdev\source\repos\ProjectConsoleDiSini\obj\Debug\netcoreapp3.1\ProjectConsoleDiSini.genruntimeconfig.cache
+C:\Users\Sysdev\source\repos\ProjectConsoleDiSini\bin\Debug\netcoreapp3.1\ClassLibraryTest.dll
+C:\Users\Sysdev\source\repos\ProjectConsoleDiSini\bin\Debug\netcoreapp3.1\ClassLibraryTest.pdb
+C:\Users\Sysdev\source\repos\ProjectConsoleDiSini\obj\Debug\netcoreapp3.1\ProjectConsoleDiSini.csproj.CopyComplete

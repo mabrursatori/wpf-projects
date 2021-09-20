@@ -1,0 +1,32 @@
+﻿<Window x:Class="ListViewItemTemplateSample.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ListViewItemTemplateSample"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="150" Width="350">
+    <Grid>
+        <ListView Margin="10" Name="lvDataBinding">
+            <ListView.ItemContainerStyle>
+                <Style TargetType="ListViewItem">
+                    <Setter Property="Background" Value="Red"/>
+                </Style>
+            </ListView.ItemContainerStyle>
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <WrapPanel>
+                        <TextBlock Text="Name: " />
+                        <TextBlock Text="{Binding Name}" FontWeight="Bold" />
+                        <TextBlock Text=", " />
+                        <TextBlock Text="Age: " />
+                        <TextBlock Text="{Binding Age}" FontWeight="Bold" />
+                        <TextBlock Text=" (" />
+                        <TextBlock Text="{Binding Mail}" TextDecorations="Underline" Foreground="Blue" Cursor="Hand" />
+                        <TextBlock Text=")" />
+                    </WrapPanel>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </Grid>
+</Window>

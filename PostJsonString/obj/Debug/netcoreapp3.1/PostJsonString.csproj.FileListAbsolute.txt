@@ -1,0 +1,15 @@
+C:\Users\Sysdev\source\repos\PostJsonString\bin\Debug\netcoreapp3.1\PostJsonString.exe
+C:\Users\Sysdev\source\repos\PostJsonString\obj\Debug\netcoreapp3.1\PostJsonString.AssemblyInfoInputs.cache
+C:\Users\Sysdev\source\repos\PostJsonString\obj\Debug\netcoreapp3.1\PostJsonString.AssemblyInfo.cs
+C:\Users\Sysdev\source\repos\PostJsonString\bin\Debug\netcoreapp3.1\PostJsonString.deps.json
+C:\Users\Sysdev\source\repos\PostJsonString\bin\Debug\netcoreapp3.1\PostJsonString.runtimeconfig.json
+C:\Users\Sysdev\source\repos\PostJsonString\bin\Debug\netcoreapp3.1\PostJsonString.runtimeconfig.dev.json
+C:\Users\Sysdev\source\repos\PostJsonString\bin\Debug\netcoreapp3.1\PostJsonString.dll
+C:\Users\Sysdev\source\repos\PostJsonString\bin\Debug\netcoreapp3.1\PostJsonString.pdb
+C:\Users\Sysdev\source\repos\PostJsonString\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Sysdev\source\repos\PostJsonString\obj\Debug\netcoreapp3.1\PostJsonString.csprojAssemblyReference.cache
+C:\Users\Sysdev\source\repos\PostJsonString\obj\Debug\netcoreapp3.1\PostJsonString.csproj.CopyComplete
+C:\Users\Sysdev\source\repos\PostJsonString\obj\Debug\netcoreapp3.1\PostJsonString.dll
+C:\Users\Sysdev\source\repos\PostJsonString\obj\Debug\netcoreapp3.1\PostJsonString.pdb
+C:\Users\Sysdev\source\repos\PostJsonString\obj\Debug\netcoreapp3.1\PostJsonString.genruntimeconfig.cache
+C:\Users\Sysdev\source\repos\PostJsonString\obj\Debug\netcoreapp3.1\PostJsonString.csproj.CoreCompileInputs.cache

@@ -1,0 +1,10 @@
+C:\Users\Sysdev\source\repos\DataGrid2Button1Column\bin\Debug\DataGrid2Button1Column.exe.config
+C:\Users\Sysdev\source\repos\DataGrid2Button1Column\bin\Debug\DataGrid2Button1Column.exe
+C:\Users\Sysdev\source\repos\DataGrid2Button1Column\bin\Debug\DataGrid2Button1Column.pdb
+C:\Users\Sysdev\source\repos\DataGrid2Button1Column\obj\Debug\DataGrid2Button1Column.csprojAssemblyReference.cache
+C:\Users\Sysdev\source\repos\DataGrid2Button1Column\obj\Debug\DataGrid2Button1Column.Frm2Button.resources
+C:\Users\Sysdev\source\repos\DataGrid2Button1Column\obj\Debug\DataGrid2Button1Column.Properties.Resources.resources
+C:\Users\Sysdev\source\repos\DataGrid2Button1Column\obj\Debug\DataGrid2Button1Column.csproj.GenerateResource.cache
+C:\Users\Sysdev\source\repos\DataGrid2Button1Column\obj\Debug\DataGrid2Button1Column.csproj.CoreCompileInputs.cache
+C:\Users\Sysdev\source\repos\DataGrid2Button1Column\obj\Debug\DataGrid2Button1Column.exe
+C:\Users\Sysdev\source\repos\DataGrid2Button1Column\obj\Debug\DataGrid2Button1Column.pdb

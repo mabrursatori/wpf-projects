@@ -1,0 +1,14 @@
+C:\Users\Sysdev\source\repos\JsonString\bin\Debug\netcoreapp3.1\JsonString.exe
+C:\Users\Sysdev\source\repos\JsonString\obj\Debug\netcoreapp3.1\JsonString.csprojAssemblyReference.cache
+C:\Users\Sysdev\source\repos\JsonString\obj\Debug\netcoreapp3.1\JsonString.AssemblyInfoInputs.cache
+C:\Users\Sysdev\source\repos\JsonString\obj\Debug\netcoreapp3.1\JsonString.AssemblyInfo.cs
+C:\Users\Sysdev\source\repos\JsonString\bin\Debug\netcoreapp3.1\JsonString.deps.json
+C:\Users\Sysdev\source\repos\JsonString\bin\Debug\netcoreapp3.1\JsonString.runtimeconfig.json
+C:\Users\Sysdev\source\repos\JsonString\bin\Debug\netcoreapp3.1\JsonString.runtimeconfig.dev.json
+C:\Users\Sysdev\source\repos\JsonString\bin\Debug\netcoreapp3.1\JsonString.dll
+C:\Users\Sysdev\source\repos\JsonString\bin\Debug\netcoreapp3.1\JsonString.pdb
+C:\Users\Sysdev\source\repos\JsonString\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Sysdev\source\repos\JsonString\obj\Debug\netcoreapp3.1\JsonString.csproj.CopyComplete
+C:\Users\Sysdev\source\repos\JsonString\obj\Debug\netcoreapp3.1\JsonString.dll
+C:\Users\Sysdev\source\repos\JsonString\obj\Debug\netcoreapp3.1\JsonString.pdb
+C:\Users\Sysdev\source\repos\JsonString\obj\Debug\netcoreapp3.1\JsonString.genruntimeconfig.cache

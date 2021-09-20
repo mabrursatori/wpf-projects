@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ProjectConsoleDiSini/1.0.0": {
+        "dependencies": {
+          "ClassLibraryTest": "1.0.0"
+        },
+        "runtime": {
+          "ProjectConsoleDiSini.dll": {}
+        }
+      },
+      "ClassLibraryTest/1.0.0": {
+        "runtime": {
+          "ClassLibraryTest.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProjectConsoleDiSini/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLibraryTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

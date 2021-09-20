@@ -1,0 +1,10 @@
+C:\Users\Sysdev\source\repos\Latihan Console Json\ForEachJson\bin\Debug\ForEachJson.exe.config
+C:\Users\Sysdev\source\repos\Latihan Console Json\ForEachJson\bin\Debug\ForEachJson.exe
+C:\Users\Sysdev\source\repos\Latihan Console Json\ForEachJson\bin\Debug\ForEachJson.pdb
+C:\Users\Sysdev\source\repos\Latihan Console Json\ForEachJson\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sysdev\source\repos\Latihan Console Json\ForEachJson\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sysdev\source\repos\Latihan Console Json\ForEachJson\obj\Debug\ForEachJson.csprojAssemblyReference.cache
+C:\Users\Sysdev\source\repos\Latihan Console Json\ForEachJson\obj\Debug\ForEachJson.csproj.CoreCompileInputs.cache
+C:\Users\Sysdev\source\repos\Latihan Console Json\ForEachJson\obj\Debug\ForEachJson.csproj.CopyComplete
+C:\Users\Sysdev\source\repos\Latihan Console Json\ForEachJson\obj\Debug\ForEachJson.exe
+C:\Users\Sysdev\source\repos\Latihan Console Json\ForEachJson\obj\Debug\ForEachJson.pdb

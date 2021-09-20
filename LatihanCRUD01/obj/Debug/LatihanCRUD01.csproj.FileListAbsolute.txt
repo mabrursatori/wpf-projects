@@ -1,0 +1,10 @@
+C:\Users\Sysdev\source\repos\LatihanCRUD01\bin\Debug\LatihanCRUD01.exe.config
+C:\Users\Sysdev\source\repos\LatihanCRUD01\bin\Debug\LatihanCRUD01.exe
+C:\Users\Sysdev\source\repos\LatihanCRUD01\bin\Debug\LatihanCRUD01.pdb
+C:\Users\Sysdev\source\repos\LatihanCRUD01\obj\Debug\LatihanCRUD01.csprojAssemblyReference.cache
+C:\Users\Sysdev\source\repos\LatihanCRUD01\obj\Debug\LatihanCRUD01.Form1.resources
+C:\Users\Sysdev\source\repos\LatihanCRUD01\obj\Debug\LatihanCRUD01.Properties.Resources.resources
+C:\Users\Sysdev\source\repos\LatihanCRUD01\obj\Debug\LatihanCRUD01.csproj.GenerateResource.cache
+C:\Users\Sysdev\source\repos\LatihanCRUD01\obj\Debug\LatihanCRUD01.csproj.CoreCompileInputs.cache
+C:\Users\Sysdev\source\repos\LatihanCRUD01\obj\Debug\LatihanCRUD01.exe
+C:\Users\Sysdev\source\repos\LatihanCRUD01\obj\Debug\LatihanCRUD01.pdb

@@ -1,0 +1,12 @@
+C:\Users\Sysdev\source\repos\ReadXMLFile\bin\Debug\ReadXMLFile.exe.config
+C:\Users\Sysdev\source\repos\ReadXMLFile\bin\Debug\ReadXMLFile.exe
+C:\Users\Sysdev\source\repos\ReadXMLFile\bin\Debug\ReadXMLFile.pdb
+C:\Users\Sysdev\source\repos\ReadXMLFile\obj\Debug\ReadXMLFile.csprojAssemblyReference.cache
+C:\Users\Sysdev\source\repos\ReadXMLFile\obj\Debug\ReadXMLFile.Properties.Resources.resources
+C:\Users\Sysdev\source\repos\ReadXMLFile\obj\Debug\ReadXMLFile.csproj.GenerateResource.cache
+C:\Users\Sysdev\source\repos\ReadXMLFile\obj\Debug\ReadXMLFile.csproj.CoreCompileInputs.cache
+C:\Users\Sysdev\source\repos\ReadXMLFile\obj\Debug\ReadXMLFile.exe
+C:\Users\Sysdev\source\repos\ReadXMLFile\obj\Debug\ReadXMLFile.pdb
+C:\Users\Sysdev\source\repos\ReadXMLFile\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sysdev\source\repos\ReadXMLFile\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sysdev\source\repos\ReadXMLFile\obj\Debug\ReadXMLFile.csproj.CopyComplete

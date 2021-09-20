@@ -1,0 +1,16 @@
+C:\Users\Sysdev\source\repos\Hitting Postman\bin\Debug\Hitting Postman.exe.config
+C:\Users\Sysdev\source\repos\Hitting Postman\bin\Debug\Hitting Postman.exe
+C:\Users\Sysdev\source\repos\Hitting Postman\bin\Debug\Hitting Postman.pdb
+C:\Users\Sysdev\source\repos\Hitting Postman\bin\Debug\Auth BLL Test.exe
+C:\Users\Sysdev\source\repos\Hitting Postman\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sysdev\source\repos\Hitting Postman\bin\Debug\Auth BLL Test.pdb
+C:\Users\Sysdev\source\repos\Hitting Postman\bin\Debug\Auth BLL Test.exe.config
+C:\Users\Sysdev\source\repos\Hitting Postman\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sysdev\source\repos\Hitting Postman\obj\Debug\Hitting Postman.csprojAssemblyReference.cache
+C:\Users\Sysdev\source\repos\Hitting Postman\obj\Debug\Hitting_Postman.FrmPostman.resources
+C:\Users\Sysdev\source\repos\Hitting Postman\obj\Debug\Hitting_Postman.Properties.Resources.resources
+C:\Users\Sysdev\source\repos\Hitting Postman\obj\Debug\Hitting Postman.csproj.GenerateResource.cache
+C:\Users\Sysdev\source\repos\Hitting Postman\obj\Debug\Hitting Postman.csproj.CoreCompileInputs.cache
+C:\Users\Sysdev\source\repos\Hitting Postman\obj\Debug\Hitting Postman.csproj.CopyComplete
+C:\Users\Sysdev\source\repos\Hitting Postman\obj\Debug\Hitting Postman.exe
+C:\Users\Sysdev\source\repos\Hitting Postman\obj\Debug\Hitting Postman.pdb

@@ -1,0 +1,10 @@
+C:\Users\Sysdev\source\repos\ClassFunction02\bin\Debug\ClassFunction02.exe.config
+C:\Users\Sysdev\source\repos\ClassFunction02\bin\Debug\ClassFunction02.exe
+C:\Users\Sysdev\source\repos\ClassFunction02\bin\Debug\ClassFunction02.pdb
+C:\Users\Sysdev\source\repos\ClassFunction02\obj\Debug\ClassFunction02.csprojAssemblyReference.cache
+C:\Users\Sysdev\source\repos\ClassFunction02\obj\Debug\ClassFunction02.Form1.resources
+C:\Users\Sysdev\source\repos\ClassFunction02\obj\Debug\ClassFunction02.Properties.Resources.resources
+C:\Users\Sysdev\source\repos\ClassFunction02\obj\Debug\ClassFunction02.csproj.GenerateResource.cache
+C:\Users\Sysdev\source\repos\ClassFunction02\obj\Debug\ClassFunction02.csproj.CoreCompileInputs.cache
+C:\Users\Sysdev\source\repos\ClassFunction02\obj\Debug\ClassFunction02.exe
+C:\Users\Sysdev\source\repos\ClassFunction02\obj\Debug\ClassFunction02.pdb

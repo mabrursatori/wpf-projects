@@ -1,0 +1,10 @@
+C:\Users\Sysdev\source\repos\LatihanTable\bin\Debug\LatihanTable.exe.config
+C:\Users\Sysdev\source\repos\LatihanTable\bin\Debug\LatihanTable.exe
+C:\Users\Sysdev\source\repos\LatihanTable\bin\Debug\LatihanTable.pdb
+C:\Users\Sysdev\source\repos\LatihanTable\obj\Debug\LatihanTable.csprojAssemblyReference.cache
+C:\Users\Sysdev\source\repos\LatihanTable\obj\Debug\LatihanTable.Form1.resources
+C:\Users\Sysdev\source\repos\LatihanTable\obj\Debug\LatihanTable.Properties.Resources.resources
+C:\Users\Sysdev\source\repos\LatihanTable\obj\Debug\LatihanTable.csproj.GenerateResource.cache
+C:\Users\Sysdev\source\repos\LatihanTable\obj\Debug\LatihanTable.csproj.CoreCompileInputs.cache
+C:\Users\Sysdev\source\repos\LatihanTable\obj\Debug\LatihanTable.exe
+C:\Users\Sysdev\source\repos\LatihanTable\obj\Debug\LatihanTable.pdb

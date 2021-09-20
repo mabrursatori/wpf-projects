@@ -1,0 +1,10 @@
+C:\Users\Sysdev\source\repos\Training\XMLtoDatatable2\bin\Debug\XMLtoDatatable2.exe.config
+C:\Users\Sysdev\source\repos\Training\XMLtoDatatable2\bin\Debug\XMLtoDatatable2.exe
+C:\Users\Sysdev\source\repos\Training\XMLtoDatatable2\bin\Debug\XMLtoDatatable2.pdb
+C:\Users\Sysdev\source\repos\Training\XMLtoDatatable2\obj\Debug\XMLtoDatatable2.Form1.resources
+C:\Users\Sysdev\source\repos\Training\XMLtoDatatable2\obj\Debug\XMLtoDatatable2.Properties.Resources.resources
+C:\Users\Sysdev\source\repos\Training\XMLtoDatatable2\obj\Debug\XMLtoDatatable2.csproj.GenerateResource.cache
+C:\Users\Sysdev\source\repos\Training\XMLtoDatatable2\obj\Debug\XMLtoDatatable2.csproj.CoreCompileInputs.cache
+C:\Users\Sysdev\source\repos\Training\XMLtoDatatable2\obj\Debug\XMLtoDatatable2.exe
+C:\Users\Sysdev\source\repos\Training\XMLtoDatatable2\obj\Debug\XMLtoDatatable2.pdb
+C:\Users\Sysdev\source\repos\Training\XMLtoDatatable2\obj\Debug\XMLtoDatatable2.csprojAssemblyReference.cache

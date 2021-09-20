@@ -1,0 +1,12 @@
+C:\Users\Sysdev\source\repos\UserControlDemo\obj\Debug\UserControlDemo.csprojAssemblyReference.cache
+C:\Users\Sysdev\source\repos\UserControlDemo\obj\Debug\MainWindow.g.cs
+C:\Users\Sysdev\source\repos\UserControlDemo\obj\Debug\User_Controls.g.cs
+C:\Users\Sysdev\source\repos\UserControlDemo\obj\Debug\App.g.cs
+C:\Users\Sysdev\source\repos\UserControlDemo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Sysdev\source\repos\UserControlDemo\obj\Debug\UserControlDemo_MarkupCompile.cache
+C:\Users\Sysdev\source\repos\UserControlDemo\obj\Debug\UserControlDemo_MarkupCompile.lref
+C:\Users\Sysdev\source\repos\UserControlDemo\obj\Debug\User_Controls.baml
+C:\Users\Sysdev\source\repos\UserControlDemo\obj\Debug\UserControlDemo.exe
+C:\Users\Sysdev\source\repos\UserControlDemo\obj\Debug\UserControlDemo.pdb
+C:\Users\Sysdev\source\repos\UserControlDemo\obj\Debug\User_Controls\LimitedInputSample.g.cs
+C:\Users\Sysdev\source\repos\UserControlDemo\obj\Debug\User_Controls\LimitedInputUserControl.g.cs

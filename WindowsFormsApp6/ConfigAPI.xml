@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ConfigAPI>
+	<CoreUIAddress>http://localhost:3223</CoreUIAddress>
+	<CoreAppsAddress>http://localhost:3333</CoreAppsAddress>
+	<CoreCustomPrinterAddress>http://localhost:3001</CoreCustomPrinterAddress>
+	<CorePassbookPrinterAddress>http://localhost:3002</CorePassbookPrinterAddress>
+	<CorePrinterAddress>http://localhost:3003</CorePrinterAddress>
+	<CoreEDCAddress>http://localhost:3010</CoreEDCAddress>
+	<CoreCamAddress>http://localhost:3011</CoreCamAddress>
+	<CoreUPSAddress>http://localhost:3012</CoreUPSAddress>
+</ConfigAPI>

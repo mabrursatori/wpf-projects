@@ -1,0 +1,14 @@
+C:\Users\Sysdev\source\repos\SerializeDeseJSON\bin\Debug\netcoreapp3.1\SerializeDeseJSON.exe
+C:\Users\Sysdev\source\repos\SerializeDeseJSON\obj\Debug\netcoreapp3.1\SerializeDeseJSON.AssemblyInfoInputs.cache
+C:\Users\Sysdev\source\repos\SerializeDeseJSON\obj\Debug\netcoreapp3.1\SerializeDeseJSON.AssemblyInfo.cs
+C:\Users\Sysdev\source\repos\SerializeDeseJSON\bin\Debug\netcoreapp3.1\SerializeDeseJSON.deps.json
+C:\Users\Sysdev\source\repos\SerializeDeseJSON\bin\Debug\netcoreapp3.1\SerializeDeseJSON.runtimeconfig.json
+C:\Users\Sysdev\source\repos\SerializeDeseJSON\bin\Debug\netcoreapp3.1\SerializeDeseJSON.runtimeconfig.dev.json
+C:\Users\Sysdev\source\repos\SerializeDeseJSON\bin\Debug\netcoreapp3.1\SerializeDeseJSON.dll
+C:\Users\Sysdev\source\repos\SerializeDeseJSON\bin\Debug\netcoreapp3.1\SerializeDeseJSON.pdb
+C:\Users\Sysdev\source\repos\SerializeDeseJSON\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Sysdev\source\repos\SerializeDeseJSON\obj\Debug\netcoreapp3.1\SerializeDeseJSON.csprojAssemblyReference.cache
+C:\Users\Sysdev\source\repos\SerializeDeseJSON\obj\Debug\netcoreapp3.1\SerializeDeseJSON.csproj.CopyComplete
+C:\Users\Sysdev\source\repos\SerializeDeseJSON\obj\Debug\netcoreapp3.1\SerializeDeseJSON.dll
+C:\Users\Sysdev\source\repos\SerializeDeseJSON\obj\Debug\netcoreapp3.1\SerializeDeseJSON.pdb
+C:\Users\Sysdev\source\repos\SerializeDeseJSON\obj\Debug\netcoreapp3.1\SerializeDeseJSON.genruntimeconfig.cache

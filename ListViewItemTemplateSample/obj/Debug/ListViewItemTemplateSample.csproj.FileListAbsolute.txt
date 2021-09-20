@@ -1,0 +1,14 @@
+C:\Users\Sysdev\source\repos\ListViewItemTemplateSample\bin\Debug\ListViewItemTemplateSample.exe.config
+C:\Users\Sysdev\source\repos\ListViewItemTemplateSample\bin\Debug\ListViewItemTemplateSample.exe
+C:\Users\Sysdev\source\repos\ListViewItemTemplateSample\bin\Debug\ListViewItemTemplateSample.pdb
+C:\Users\Sysdev\source\repos\ListViewItemTemplateSample\obj\Debug\MainWindow.g.cs
+C:\Users\Sysdev\source\repos\ListViewItemTemplateSample\obj\Debug\App.g.cs
+C:\Users\Sysdev\source\repos\ListViewItemTemplateSample\obj\Debug\ListViewItemTemplateSample_MarkupCompile.cache
+C:\Users\Sysdev\source\repos\ListViewItemTemplateSample\obj\Debug\ListViewItemTemplateSample_MarkupCompile.lref
+C:\Users\Sysdev\source\repos\ListViewItemTemplateSample\obj\Debug\MainWindow.baml
+C:\Users\Sysdev\source\repos\ListViewItemTemplateSample\obj\Debug\ListViewItemTemplateSample.g.resources
+C:\Users\Sysdev\source\repos\ListViewItemTemplateSample\obj\Debug\ListViewItemTemplateSample.Properties.Resources.resources
+C:\Users\Sysdev\source\repos\ListViewItemTemplateSample\obj\Debug\ListViewItemTemplateSample.csproj.GenerateResource.cache
+C:\Users\Sysdev\source\repos\ListViewItemTemplateSample\obj\Debug\ListViewItemTemplateSample.csproj.CoreCompileInputs.cache
+C:\Users\Sysdev\source\repos\ListViewItemTemplateSample\obj\Debug\ListViewItemTemplateSample.exe
+C:\Users\Sysdev\source\repos\ListViewItemTemplateSample\obj\Debug\ListViewItemTemplateSample.pdb

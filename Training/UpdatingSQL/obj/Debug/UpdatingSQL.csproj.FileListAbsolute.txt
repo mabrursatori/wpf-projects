@@ -1,0 +1,5 @@
+C:\Users\Sysdev\source\repos\Training\UpdatingSQL\obj\Debug\UpdatingSQL.csprojAssemblyReference.cache
+C:\Users\Sysdev\source\repos\Training\UpdatingSQL\obj\Debug\UpdatingSQL.Form1.resources
+C:\Users\Sysdev\source\repos\Training\UpdatingSQL\obj\Debug\UpdatingSQL.Properties.Resources.resources
+C:\Users\Sysdev\source\repos\Training\UpdatingSQL\obj\Debug\UpdatingSQL.csproj.GenerateResource.cache
+C:\Users\Sysdev\source\repos\Training\UpdatingSQL\obj\Debug\UpdatingSQL.csproj.CoreCompileInputs.cache

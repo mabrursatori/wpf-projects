@@ -1,0 +1,8 @@
+C:\Users\Sysdev\source\repos\ClassLibraryTest\bin\Debug\netstandard2.0\ClassLibraryTest.deps.json
+C:\Users\Sysdev\source\repos\ClassLibraryTest\bin\Debug\netstandard2.0\ClassLibraryTest.dll
+C:\Users\Sysdev\source\repos\ClassLibraryTest\bin\Debug\netstandard2.0\ClassLibraryTest.pdb
+C:\Users\Sysdev\source\repos\ClassLibraryTest\obj\Debug\netstandard2.0\ClassLibraryTest.csprojAssemblyReference.cache
+C:\Users\Sysdev\source\repos\ClassLibraryTest\obj\Debug\netstandard2.0\ClassLibraryTest.AssemblyInfoInputs.cache
+C:\Users\Sysdev\source\repos\ClassLibraryTest\obj\Debug\netstandard2.0\ClassLibraryTest.AssemblyInfo.cs
+C:\Users\Sysdev\source\repos\ClassLibraryTest\obj\Debug\netstandard2.0\ClassLibraryTest.dll
+C:\Users\Sysdev\source\repos\ClassLibraryTest\obj\Debug\netstandard2.0\ClassLibraryTest.pdb

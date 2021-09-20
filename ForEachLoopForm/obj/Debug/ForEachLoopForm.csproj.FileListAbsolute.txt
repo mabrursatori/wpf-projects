@@ -1,0 +1,10 @@
+C:\Users\Sysdev\source\repos\ForEachLoopForm\bin\Debug\ForEachLoopForm.exe.config
+C:\Users\Sysdev\source\repos\ForEachLoopForm\bin\Debug\ForEachLoopForm.exe
+C:\Users\Sysdev\source\repos\ForEachLoopForm\bin\Debug\ForEachLoopForm.pdb
+C:\Users\Sysdev\source\repos\ForEachLoopForm\obj\Debug\ForEachLoopForm.csprojAssemblyReference.cache
+C:\Users\Sysdev\source\repos\ForEachLoopForm\obj\Debug\ForEachLoopForm.Form1.resources
+C:\Users\Sysdev\source\repos\ForEachLoopForm\obj\Debug\ForEachLoopForm.Properties.Resources.resources
+C:\Users\Sysdev\source\repos\ForEachLoopForm\obj\Debug\ForEachLoopForm.csproj.GenerateResource.cache
+C:\Users\Sysdev\source\repos\ForEachLoopForm\obj\Debug\ForEachLoopForm.csproj.CoreCompileInputs.cache
+C:\Users\Sysdev\source\repos\ForEachLoopForm\obj\Debug\ForEachLoopForm.exe
+C:\Users\Sysdev\source\repos\ForEachLoopForm\obj\Debug\ForEachLoopForm.pdb

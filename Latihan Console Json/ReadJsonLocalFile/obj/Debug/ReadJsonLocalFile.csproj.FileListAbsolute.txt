@@ -1,0 +1,10 @@
+C:\Users\Sysdev\source\repos\Latihan Console Json\ReadJsonLocalFile\bin\Debug\ReadJsonLocalFile.exe.config
+C:\Users\Sysdev\source\repos\Latihan Console Json\ReadJsonLocalFile\bin\Debug\ReadJsonLocalFile.exe
+C:\Users\Sysdev\source\repos\Latihan Console Json\ReadJsonLocalFile\bin\Debug\ReadJsonLocalFile.pdb
+C:\Users\Sysdev\source\repos\Latihan Console Json\ReadJsonLocalFile\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sysdev\source\repos\Latihan Console Json\ReadJsonLocalFile\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sysdev\source\repos\Latihan Console Json\ReadJsonLocalFile\obj\Debug\ReadJsonLocalFile.csprojAssemblyReference.cache
+C:\Users\Sysdev\source\repos\Latihan Console Json\ReadJsonLocalFile\obj\Debug\ReadJsonLocalFile.csproj.CoreCompileInputs.cache
+C:\Users\Sysdev\source\repos\Latihan Console Json\ReadJsonLocalFile\obj\Debug\ReadJsonLocalFile.csproj.CopyComplete
+C:\Users\Sysdev\source\repos\Latihan Console Json\ReadJsonLocalFile\obj\Debug\ReadJsonLocalFile.exe
+C:\Users\Sysdev\source\repos\Latihan Console Json\ReadJsonLocalFile\obj\Debug\ReadJsonLocalFile.pdb

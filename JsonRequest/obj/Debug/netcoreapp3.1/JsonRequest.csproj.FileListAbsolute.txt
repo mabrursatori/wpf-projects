@@ -1,0 +1,6 @@
+C:\Users\Sysdev\source\repos\JsonRequest\bin\Debug\netcoreapp3.1\JsonRequest.exe
+C:\Users\Sysdev\source\repos\JsonRequest\obj\Debug\netcoreapp3.1\JsonRequest.csprojAssemblyReference.cache
+C:\Users\Sysdev\source\repos\JsonRequest\obj\Debug\netcoreapp3.1\JsonRequest.AssemblyInfoInputs.cache
+C:\Users\Sysdev\source\repos\JsonRequest\obj\Debug\netcoreapp3.1\JsonRequest.AssemblyInfo.cs
+C:\Users\Sysdev\source\repos\JsonRequest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Sysdev\source\repos\JsonRequest\obj\Debug\netcoreapp3.1\JsonRequest.csproj.CopyComplete

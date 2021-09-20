@@ -1,0 +1,15 @@
+C:\Users\Sysdev\source\repos\ImageExample\bin\Debug\ImageExample.exe.config
+C:\Users\Sysdev\source\repos\ImageExample\bin\Debug\ImageExample.exe
+C:\Users\Sysdev\source\repos\ImageExample\bin\Debug\ImageExample.pdb
+C:\Users\Sysdev\source\repos\ImageExample\obj\Debug\ImageExample.csprojAssemblyReference.cache
+C:\Users\Sysdev\source\repos\ImageExample\obj\Debug\MainWindow.g.cs
+C:\Users\Sysdev\source\repos\ImageExample\obj\Debug\App.g.cs
+C:\Users\Sysdev\source\repos\ImageExample\obj\Debug\ImageExample_MarkupCompile.cache
+C:\Users\Sysdev\source\repos\ImageExample\obj\Debug\ImageExample_MarkupCompile.lref
+C:\Users\Sysdev\source\repos\ImageExample\obj\Debug\MainWindow.baml
+C:\Users\Sysdev\source\repos\ImageExample\obj\Debug\ImageExample.g.resources
+C:\Users\Sysdev\source\repos\ImageExample\obj\Debug\ImageExample.Properties.Resources.resources
+C:\Users\Sysdev\source\repos\ImageExample\obj\Debug\ImageExample.csproj.GenerateResource.cache
+C:\Users\Sysdev\source\repos\ImageExample\obj\Debug\ImageExample.csproj.CoreCompileInputs.cache
+C:\Users\Sysdev\source\repos\ImageExample\obj\Debug\ImageExample.exe
+C:\Users\Sysdev\source\repos\ImageExample\obj\Debug\ImageExample.pdb

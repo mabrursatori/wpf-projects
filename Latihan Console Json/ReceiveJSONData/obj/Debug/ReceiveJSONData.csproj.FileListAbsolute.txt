@@ -1,0 +1,10 @@
+C:\Users\Sysdev\source\repos\Latihan Console Json\ReceiveJSONData\bin\Debug\ReceiveJSONData.exe.config
+C:\Users\Sysdev\source\repos\Latihan Console Json\ReceiveJSONData\bin\Debug\ReceiveJSONData.exe
+C:\Users\Sysdev\source\repos\Latihan Console Json\ReceiveJSONData\bin\Debug\ReceiveJSONData.pdb
+C:\Users\Sysdev\source\repos\Latihan Console Json\ReceiveJSONData\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sysdev\source\repos\Latihan Console Json\ReceiveJSONData\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sysdev\source\repos\Latihan Console Json\ReceiveJSONData\obj\Debug\ReceiveJSONData.csproj.CoreCompileInputs.cache
+C:\Users\Sysdev\source\repos\Latihan Console Json\ReceiveJSONData\obj\Debug\ReceiveJSONData.csproj.CopyComplete
+C:\Users\Sysdev\source\repos\Latihan Console Json\ReceiveJSONData\obj\Debug\ReceiveJSONData.exe
+C:\Users\Sysdev\source\repos\Latihan Console Json\ReceiveJSONData\obj\Debug\ReceiveJSONData.pdb
+C:\Users\Sysdev\source\repos\Latihan Console Json\ReceiveJSONData\obj\Debug\ReceiveJSONData.csprojAssemblyReference.cache

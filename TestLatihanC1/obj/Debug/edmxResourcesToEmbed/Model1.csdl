@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DB_DEMOModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="COM_CUSTOMER">
+    <Key>
+      <PropertyRef Name="COM_CUSTOMER_ID" />
+    </Key>
+    <Property Name="COM_CUSTOMER_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CUSTOMER_NAME" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="SALES_SO" Relationship="Self.FK_SALES_SO_COM_CUSTOMER" FromRole="COM_CUSTOMER" ToRole="SALES_SO" />
+  </EntityType>
+  <EntityType Name="SALES_SO">
+    <Key>
+      <PropertyRef Name="SALES_SO_ID" />
+    </Key>
+    <Property Name="SALES_SO_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="SO_NO" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="ORDER_DATE" Type="DateTime" Precision="3" />
+    <Property Name="COM_CUSTOMER_ID" Type="Int32" />
+    <Property Name="ADDRESS" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="COM_CUSTOMER" Relationship="Self.FK_SALES_SO_COM_CUSTOMER" FromRole="SALES_SO" ToRole="COM_CUSTOMER" />
+    <NavigationProperty Name="SALES_SO_LITEM" Relationship="Self.FK_SALES_SO_LITEM_SALES_SO" FromRole="SALES_SO" ToRole="SALES_SO_LITEM" />
+  </EntityType>
+  <EntityType Name="SALES_SO_LITEM">
+    <Key>
+      <PropertyRef Name="SALES_SO_LITEM_ID" />
+    </Key>
+    <Property Name="SALES_SO_LITEM_ID" Type="Int32" Nullable="false" />
+    <Property Name="SALES_SO_ID" Type="Int32" />
+    <Property Name="ITEM_NAME" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="QUANTITY" Type="Int32" />
+    <Property Name="PRICE" Type="Double" />
+    <NavigationProperty Name="SALES_SO" Relationship="Self.FK_SALES_SO_LITEM_SALES_SO" FromRole="SALES_SO_LITEM" ToRole="SALES_SO" />
+  </EntityType>
+  <Association Name="FK_SALES_SO_COM_CUSTOMER">
+    <End Role="COM_CUSTOMER" Type="Self.COM_CUSTOMER" Multiplicity="0..1" />
+    <End Role="SALES_SO" Type="Self.SALES_SO" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="COM_CUSTOMER">
+        <PropertyRef Name="COM_CUSTOMER_ID" />
+      </Principal>
+      <Dependent Role="SALES_SO">
+        <PropertyRef Name="COM_CUSTOMER_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_SALES_SO_LITEM_SALES_SO">
+    <End Role="SALES_SO" Type="Self.SALES_SO" Multiplicity="0..1" />
+    <End Role="SALES_SO_LITEM" Type="Self.SALES_SO_LITEM" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="SALES_SO">
+        <PropertyRef Name="SALES_SO_ID" />
+      </Principal>
+      <Dependent Role="SALES_SO_LITEM">
+        <PropertyRef Name="SALES_SO_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="DB_DEMOEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="COM_CUSTOMER" EntityType="Self.COM_CUSTOMER" />
+    <EntitySet Name="SALES_SO" EntityType="Self.SALES_SO" />
+    <EntitySet Name="SALES_SO_LITEM" EntityType="Self.SALES_SO_LITEM" />
+    <AssociationSet Name="FK_SALES_SO_COM_CUSTOMER" Association="Self.FK_SALES_SO_COM_CUSTOMER">
+      <End Role="COM_CUSTOMER" EntitySet="COM_CUSTOMER" />
+      <End Role="SALES_SO" EntitySet="SALES_SO" />
+    </AssociationSet>
+    <AssociationSet Name="FK_SALES_SO_LITEM_SALES_SO" Association="Self.FK_SALES_SO_LITEM_SALES_SO">
+      <End Role="SALES_SO" EntitySet="SALES_SO" />
+      <End Role="SALES_SO_LITEM" EntitySet="SALES_SO_LITEM" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+
+<ConfigAPI>
+	<CoreUIAddress>http://localhost:3223</CoreUIAddress>
+	<CoreAppsAddress>http://localhost:3333</CoreAppsAddress>
+	<CoreCustomPrinterAddress>http://localhost:3001</CoreCustomPrinterAddress>
+	<CorePassbookPrinterAddress>http://localhost:3002</CorePassbookPrinterAddress>
+	<CorePrinterAddress>http://localhost:3003</CorePrinterAddress>
+	<CoreEDCAddress>http://localhost:3010</CoreEDCAddress>
+	<CoreCamAddress>http://localhost:3011</CoreCamAddress>
+	<CoreUPSAddress>http://localhost:3012</CoreUPSAddress>
+	<CoreViewUIAddress>http://localhost:1111</CoreViewUIAddress>
+	<CoreTransactionAddress>http://localhost:9080/WS_Transaction/api</CoreTransactionAddress>
+	<CoreMonitoringAddress>http://localhost:8080/WS_Monitoring/api</CoreMonitoringAddress>
+	<UICore>C:\Source\SSPP\trunk\SSPP v2\UI Core\Service\Core_UI\Core_UI\bin\Debug\Core_UI.exe</UICore>
+	<UICoreScreen>C:\Source\SSPP\trunk\SSPP v2\UI Core\Electron\ElectronUI-win32-x64\ElectronUI.exe</UICoreScreen>
+	<UIPlayer></UIPlayer>
+	<ForcePlayer>N</ForcePlayer>
+	<CoreWriteLog>Y</CoreWriteLog>
+	<StatusRetry>1000</StatusRetry>
+	<TimeOut>100000</TimeOut>
+	<Branch>63</Branch>
+	<Terminal>4</Terminal>
+	<Teller>00200</Teller>
+	<OverrideFlag>Z</OverrideFlag>
+	<MutasiFailPrint>N</MutasiFailPrint>
+	<MaxRowPassbook>40</MaxRowPassbook>
+	<Webcam>N</Webcam>
+	<Monitoring>N</Monitoring>
+	<Trans>Y</Trans>
+	<B24>N</B24>
+	<SOA>N</SOA>
+	<EDC>Y</EDC>
+	<UPS>N</UPS>
+	<Printer>N</Printer>
+	<Thermal>N</Thermal>
+</ConfigAPI>

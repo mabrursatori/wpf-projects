@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "VHjKUKuZ2xUkhLDe48M8uTUxovJRmaKogJyfIr1yo9+MbgJ6bRe9Cq10fReXex51HZd77O+OyKyQ1kDzIGHzRA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sysdev\\source\\repos\\ClassFunction\\ClassFunction.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sysdev\\.nuget\\packages\\node.js\\0.12.7\\node.js.0.12.7.nupkg.sha512",
+    "C:\\Users\\Sysdev\\.nuget\\packages\\nogit\\0.1.0\\nogit.0.1.0.nupkg.sha512",
+    "C:\\Users\\Sysdev\\.nuget\\packages\\npm\\3.5.2\\npm.3.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}

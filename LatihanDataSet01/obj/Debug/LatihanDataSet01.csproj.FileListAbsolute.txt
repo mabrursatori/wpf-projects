@@ -1,0 +1,10 @@
+C:\Users\Sysdev\source\repos\LatihanDataSet01\obj\Debug\LatihanDataSet01.csprojAssemblyReference.cache
+C:\Users\Sysdev\source\repos\LatihanDataSet01\obj\Debug\LatihanDataSet01.Properties.Resources.resources
+C:\Users\Sysdev\source\repos\LatihanDataSet01\obj\Debug\LatihanDataSet01.csproj.GenerateResource.cache
+C:\Users\Sysdev\source\repos\LatihanDataSet01\obj\Debug\LatihanDataSet01.csproj.CoreCompileInputs.cache
+C:\Users\Sysdev\source\repos\LatihanDataSet01\bin\Debug\LatihanDataSet01.exe.config
+C:\Users\Sysdev\source\repos\LatihanDataSet01\bin\Debug\LatihanDataSet01.exe
+C:\Users\Sysdev\source\repos\LatihanDataSet01\bin\Debug\LatihanDataSet01.pdb
+C:\Users\Sysdev\source\repos\LatihanDataSet01\obj\Debug\LatihanDataSet01.LDS01.resources
+C:\Users\Sysdev\source\repos\LatihanDataSet01\obj\Debug\LatihanDataSet01.exe
+C:\Users\Sysdev\source\repos\LatihanDataSet01\obj\Debug\LatihanDataSet01.pdb

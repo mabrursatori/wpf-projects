@@ -1,0 +1,4 @@
+C:\Users\Sysdev\source\repos\GetSetTraining\bin\Debug\netcoreapp3.1\GetSetTraining.exe
+C:\Users\Sysdev\source\repos\GetSetTraining\obj\Debug\netcoreapp3.1\GetSetTraining.csprojAssemblyReference.cache
+C:\Users\Sysdev\source\repos\GetSetTraining\obj\Debug\netcoreapp3.1\GetSetTraining.AssemblyInfoInputs.cache
+C:\Users\Sysdev\source\repos\GetSetTraining\obj\Debug\netcoreapp3.1\GetSetTraining.AssemblyInfo.cs

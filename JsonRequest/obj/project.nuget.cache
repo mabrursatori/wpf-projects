@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "migbgHlRbf2DT/gCUI3Izmjj4MZ3myiQztgFHCh0E6f/L2qeR/GuXb7QSbFkTdzuRvixRhjVjZ+D2REp4XEYAg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sysdev\\source\\repos\\JsonRequest\\JsonRequest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sysdev\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Sysdev\\.nuget\\packages\\node.js\\0.12.7\\node.js.0.12.7.nupkg.sha512",
+    "C:\\Users\\Sysdev\\.nuget\\packages\\nogit\\0.1.0\\nogit.0.1.0.nupkg.sha512",
+    "C:\\Users\\Sysdev\\.nuget\\packages\\npm\\3.5.2\\npm.3.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}

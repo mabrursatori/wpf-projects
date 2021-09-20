@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSetAsal" targetNamespace="http://tempuri.org/DataSetAsal.xsd" xmlns:mstns="http://tempuri.org/DataSetAsal.xsd" xmlns="http://tempuri.org/DataSetAsal.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSetAsal" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSetAsal" msprop:Generator_UserDSName="DataSetAsal">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Table01" msprop:Generator_TableClassName="Table01DataTable" msprop:Generator_TableVarName="tableTable01" msprop:Generator_TablePropName="Table01" msprop:Generator_RowDeletingName="Table01RowDeleting" msprop:Generator_RowChangingName="Table01RowChanging" msprop:Generator_RowEvHandlerName="Table01RowChangeEventHandler" msprop:Generator_RowDeletedName="Table01RowDeleted" msprop:Generator_UserTableName="Table01" msprop:Generator_RowChangedName="Table01RowChanged" msprop:Generator_RowEvArgName="Table01RowChangeEvent" msprop:Generator_RowClassName="Table01Row">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Item_x0020_Name" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnItem_Name" msprop:Generator_ColumnPropNameInRow="Item_Name" msprop:Generator_ColumnPropNameInTable="Item_NameColumn" msprop:Generator_UserColumnName="Item Name" type="xs:string" />
+              <xs:element name="Item_x0020_Detail" msprop:Generator_ColumnVarNameInTable="columnItem_Detail" msprop:Generator_ColumnPropNameInRow="Item_Detail" msprop:Generator_ColumnPropNameInTable="Item_DetailColumn" msprop:Generator_UserColumnName="Item Detail" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="DataTable1" msprop:Generator_TableClassName="DataTable1DataTable" msprop:Generator_TableVarName="tableDataTable1" msprop:Generator_TablePropName="DataTable1" msprop:Generator_RowDeletingName="DataTable1RowDeleting" msprop:Generator_RowChangingName="DataTable1RowChanging" msprop:Generator_RowEvHandlerName="DataTable1RowChangeEventHandler" msprop:Generator_RowDeletedName="DataTable1RowDeleted" msprop:Generator_UserTableName="DataTable1" msprop:Generator_RowChangedName="DataTable1RowChanged" msprop:Generator_RowEvArgName="DataTable1RowChangeEvent" msprop:Generator_RowClassName="DataTable1Row">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Item_x0020_Name" msprop:Generator_ColumnVarNameInTable="columnItem_Name" msprop:Generator_ColumnPropNameInRow="Item_Name" msprop:Generator_ColumnPropNameInTable="Item_NameColumn" msprop:Generator_UserColumnName="Item Name" type="xs:string" minOccurs="0" />
+              <xs:element name="Item_x0020_Detail" msprop:Generator_ColumnVarNameInTable="columnItem_Detail" msprop:Generator_ColumnPropNameInRow="Item_Detail" msprop:Generator_ColumnPropNameInTable="Item_DetailColumn" msprop:Generator_UserColumnName="Item Detail" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="DataTable1Key1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:Table01" />
+      <xs:field xpath="mstns:Item_x0020_Name" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

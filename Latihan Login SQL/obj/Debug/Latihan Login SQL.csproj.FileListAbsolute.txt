@@ -1,0 +1,11 @@
+C:\Users\Sysdev\source\repos\Latihan Login SQL\bin\Debug\Latihan Login SQL.exe.config
+C:\Users\Sysdev\source\repos\Latihan Login SQL\bin\Debug\Latihan Login SQL.exe
+C:\Users\Sysdev\source\repos\Latihan Login SQL\bin\Debug\Latihan Login SQL.pdb
+C:\Users\Sysdev\source\repos\Latihan Login SQL\obj\Debug\Latihan Login SQL.csprojAssemblyReference.cache
+C:\Users\Sysdev\source\repos\Latihan Login SQL\obj\Debug\Latihan_Login_SQL.Form1.resources
+C:\Users\Sysdev\source\repos\Latihan Login SQL\obj\Debug\Latihan_Login_SQL.Nasabah.resources
+C:\Users\Sysdev\source\repos\Latihan Login SQL\obj\Debug\Latihan_Login_SQL.Properties.Resources.resources
+C:\Users\Sysdev\source\repos\Latihan Login SQL\obj\Debug\Latihan Login SQL.csproj.GenerateResource.cache
+C:\Users\Sysdev\source\repos\Latihan Login SQL\obj\Debug\Latihan Login SQL.csproj.CoreCompileInputs.cache
+C:\Users\Sysdev\source\repos\Latihan Login SQL\obj\Debug\Latihan Login SQL.exe
+C:\Users\Sysdev\source\repos\Latihan Login SQL\obj\Debug\Latihan Login SQL.pdb

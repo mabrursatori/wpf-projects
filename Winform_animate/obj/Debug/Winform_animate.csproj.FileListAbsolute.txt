@@ -1,0 +1,10 @@
+C:\Users\Sysdev\source\repos\Winform_animate\bin\Debug\Winform_animate.exe.config
+C:\Users\Sysdev\source\repos\Winform_animate\bin\Debug\Winform_animate.exe
+C:\Users\Sysdev\source\repos\Winform_animate\bin\Debug\Winform_animate.pdb
+C:\Users\Sysdev\source\repos\Winform_animate\obj\Debug\Winform_animate.csprojAssemblyReference.cache
+C:\Users\Sysdev\source\repos\Winform_animate\obj\Debug\Winform_animate.Form1.resources
+C:\Users\Sysdev\source\repos\Winform_animate\obj\Debug\Winform_animate.Properties.Resources.resources
+C:\Users\Sysdev\source\repos\Winform_animate\obj\Debug\Winform_animate.csproj.GenerateResource.cache
+C:\Users\Sysdev\source\repos\Winform_animate\obj\Debug\Winform_animate.csproj.CoreCompileInputs.cache
+C:\Users\Sysdev\source\repos\Winform_animate\obj\Debug\Winform_animate.exe
+C:\Users\Sysdev\source\repos\Winform_animate\obj\Debug\Winform_animate.pdb

@@ -1,0 +1,11 @@
+C:\Users\Sysdev\source\repos\WindowsFormsloadParse\bin\Debug\WindowsFormsloadParse.exe.config
+C:\Users\Sysdev\source\repos\WindowsFormsloadParse\bin\Debug\WindowsFormsloadParse.exe
+C:\Users\Sysdev\source\repos\WindowsFormsloadParse\bin\Debug\WindowsFormsloadParse.pdb
+C:\Users\Sysdev\source\repos\WindowsFormsloadParse\obj\Debug\WindowsFormsloadParse.csprojAssemblyReference.cache
+C:\Users\Sysdev\source\repos\WindowsFormsloadParse\obj\Debug\WindowsFormsloadParse.Form1.resources
+C:\Users\Sysdev\source\repos\WindowsFormsloadParse\obj\Debug\WindowsFormsloadParse.Properties.Resources.resources
+C:\Users\Sysdev\source\repos\WindowsFormsloadParse\obj\Debug\WindowsFormsloadParse.csproj.GenerateResource.cache
+C:\Users\Sysdev\source\repos\WindowsFormsloadParse\obj\Debug\WindowsFormsloadParse.csproj.CoreCompileInputs.cache
+C:\Users\Sysdev\source\repos\WindowsFormsloadParse\obj\Debug\WindowsFormsloadParse.exe
+C:\Users\Sysdev\source\repos\WindowsFormsloadParse\obj\Debug\WindowsFormsloadParse.pdb
+C:\Users\Sysdev\source\repos\WindowsFormsloadParse\bin\Debug\ConfigAPI.xml

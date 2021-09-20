@@ -1,0 +1,12 @@
+C:\Users\Sysdev\source\repos\Work Project\bin\Debug\Work Project.exe.config
+C:\Users\Sysdev\source\repos\Work Project\bin\Debug\Work Project.exe
+C:\Users\Sysdev\source\repos\Work Project\bin\Debug\Work Project.pdb
+C:\Users\Sysdev\source\repos\Work Project\obj\Debug\Work Project.csprojAssemblyReference.cache
+C:\Users\Sysdev\source\repos\Work Project\obj\Debug\Work_Project.Form_Nasabah.resources
+C:\Users\Sysdev\source\repos\Work Project\obj\Debug\Work_Project.Form_Non_Nasabah.resources
+C:\Users\Sysdev\source\repos\Work Project\obj\Debug\Work_Project.Form1.resources
+C:\Users\Sysdev\source\repos\Work Project\obj\Debug\Work_Project.Properties.Resources.resources
+C:\Users\Sysdev\source\repos\Work Project\obj\Debug\Work Project.csproj.GenerateResource.cache
+C:\Users\Sysdev\source\repos\Work Project\obj\Debug\Work Project.csproj.CoreCompileInputs.cache
+C:\Users\Sysdev\source\repos\Work Project\obj\Debug\Work Project.exe
+C:\Users\Sysdev\source\repos\Work Project\obj\Debug\Work Project.pdb

@@ -1,0 +1,11 @@
+C:\Users\Sysdev\source\repos\FormToForm\bin\Debug\FormToForm.exe.config
+C:\Users\Sysdev\source\repos\FormToForm\bin\Debug\FormToForm.exe
+C:\Users\Sysdev\source\repos\FormToForm\bin\Debug\FormToForm.pdb
+C:\Users\Sysdev\source\repos\FormToForm\obj\Debug\FormToForm.csprojAssemblyReference.cache
+C:\Users\Sysdev\source\repos\FormToForm\obj\Debug\FormToForm.Form1.resources
+C:\Users\Sysdev\source\repos\FormToForm\obj\Debug\FormToForm.Properties.Resources.resources
+C:\Users\Sysdev\source\repos\FormToForm\obj\Debug\FormToForm.csproj.GenerateResource.cache
+C:\Users\Sysdev\source\repos\FormToForm\obj\Debug\FormToForm.csproj.CoreCompileInputs.cache
+C:\Users\Sysdev\source\repos\FormToForm\obj\Debug\FormToForm.exe
+C:\Users\Sysdev\source\repos\FormToForm\obj\Debug\FormToForm.pdb
+C:\Users\Sysdev\source\repos\FormToForm\obj\Debug\FormToForm.Nasabah.resources

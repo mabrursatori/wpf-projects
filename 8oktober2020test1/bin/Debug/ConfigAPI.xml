@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Root>
+  <FirstLevel> Lelvel</FirstLevel>
+</Root>
+	
+try
+            {
+                reader = new XmlTextReader(filename);
+                reader.WhitespaceHandling = WhitespaceHandling.None;
+               
+
+                while (reader.Read())
+                {
+                    
+
+                    switch (reader.NodeType)
+                    {
+                        case XmlNodeType.Element:
+                            //dataGridView1.Rows[cnt].Cells[1].Value = reader.Name;
+                            dataGridView1.Rows.Add(reader.Name);
+                            break;
+                        case XmlNodeType.Text:
+                            dataGridView1.Rows.Add("\t",reader.Value);
+                            //dataGridView1.Rows[cnt].Cells[0].Value = reader.Value;
+                            break;
+                        case XmlNodeType.EndElement:
+                            break;
+                    }

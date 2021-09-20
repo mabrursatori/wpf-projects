@@ -1,0 +1,4 @@
+C:\Users\Sysdev\source\repos\Training\CsharpSQLServer\bin\Debug\netcoreapp3.1\CsharpSQLServer.exe
+C:\Users\Sysdev\source\repos\Training\CsharpSQLServer\obj\Debug\netcoreapp3.1\CsharpSQLServer.csprojAssemblyReference.cache
+C:\Users\Sysdev\source\repos\Training\CsharpSQLServer\obj\Debug\netcoreapp3.1\CsharpSQLServer.AssemblyInfoInputs.cache
+C:\Users\Sysdev\source\repos\Training\CsharpSQLServer\obj\Debug\netcoreapp3.1\CsharpSQLServer.AssemblyInfo.cs

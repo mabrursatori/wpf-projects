@@ -1,0 +1,15 @@
+C:\Users\Sysdev\source\repos\ListViewDataBindingSample\bin\Debug\ListViewDataBindingSample.exe.config
+C:\Users\Sysdev\source\repos\ListViewDataBindingSample\bin\Debug\ListViewDataBindingSample.exe
+C:\Users\Sysdev\source\repos\ListViewDataBindingSample\bin\Debug\ListViewDataBindingSample.pdb
+C:\Users\Sysdev\source\repos\ListViewDataBindingSample\obj\Debug\ListViewDataBindingSample.csprojAssemblyReference.cache
+C:\Users\Sysdev\source\repos\ListViewDataBindingSample\obj\Debug\MainWindow.g.cs
+C:\Users\Sysdev\source\repos\ListViewDataBindingSample\obj\Debug\App.g.cs
+C:\Users\Sysdev\source\repos\ListViewDataBindingSample\obj\Debug\ListViewDataBindingSample_MarkupCompile.cache
+C:\Users\Sysdev\source\repos\ListViewDataBindingSample\obj\Debug\ListViewDataBindingSample_MarkupCompile.lref
+C:\Users\Sysdev\source\repos\ListViewDataBindingSample\obj\Debug\MainWindow.baml
+C:\Users\Sysdev\source\repos\ListViewDataBindingSample\obj\Debug\ListViewDataBindingSample.g.resources
+C:\Users\Sysdev\source\repos\ListViewDataBindingSample\obj\Debug\ListViewDataBindingSample.Properties.Resources.resources
+C:\Users\Sysdev\source\repos\ListViewDataBindingSample\obj\Debug\ListViewDataBindingSample.csproj.GenerateResource.cache
+C:\Users\Sysdev\source\repos\ListViewDataBindingSample\obj\Debug\ListViewDataBindingSample.csproj.CoreCompileInputs.cache
+C:\Users\Sysdev\source\repos\ListViewDataBindingSample\obj\Debug\ListViewDataBindingSample.exe
+C:\Users\Sysdev\source\repos\ListViewDataBindingSample\obj\Debug\ListViewDataBindingSample.pdb

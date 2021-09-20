@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qy7CNPtt6zSBCr97icNOyIz8mbsX7KeBEeNRqIXReHBvdiZyBS6DWQrSYjbZN33OW1tjkruAJsYuFT4kUCoIzQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sysdev\\source\\repos\\GetSetTraining\\GetSetTraining.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sysdev\\.nuget\\packages\\node.js\\0.12.7\\node.js.0.12.7.nupkg.sha512",
+    "C:\\Users\\Sysdev\\.nuget\\packages\\nogit\\0.1.0\\nogit.0.1.0.nupkg.sha512",
+    "C:\\Users\\Sysdev\\.nuget\\packages\\npm\\3.5.2\\npm.3.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}

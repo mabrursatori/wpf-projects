@@ -1,0 +1,14 @@
+C:\Users\Sysdev\source\repos\Auth BLL Test\bin\Debug\Auth BLL Test.exe.config
+C:\Users\Sysdev\source\repos\Auth BLL Test\bin\Debug\Auth BLL Test.exe
+C:\Users\Sysdev\source\repos\Auth BLL Test\bin\Debug\Auth BLL Test.pdb
+C:\Users\Sysdev\source\repos\Auth BLL Test\obj\Debug\Auth BLL Test.csprojAssemblyReference.cache
+C:\Users\Sysdev\source\repos\Auth BLL Test\obj\Debug\Auth_BLL_Test.Properties.Resources.resources
+C:\Users\Sysdev\source\repos\Auth BLL Test\obj\Debug\Auth BLL Test.csproj.GenerateResource.cache
+C:\Users\Sysdev\source\repos\Auth BLL Test\obj\Debug\Auth BLL Test.csproj.CoreCompileInputs.cache
+C:\Users\Sysdev\source\repos\Auth BLL Test\obj\Debug\Auth BLL Test.exe
+C:\Users\Sysdev\source\repos\Auth BLL Test\obj\Debug\Auth BLL Test.pdb
+C:\Users\Sysdev\source\repos\Auth BLL Test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sysdev\source\repos\Auth BLL Test\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Sysdev\source\repos\Auth BLL Test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sysdev\source\repos\Auth BLL Test\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Sysdev\source\repos\Auth BLL Test\obj\Debug\Auth BLL Test.csproj.CopyComplete

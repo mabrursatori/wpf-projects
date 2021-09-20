@@ -1,0 +1,11 @@
+C:\Users\Sysdev\source\repos\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+C:\Users\Sysdev\source\repos\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+C:\Users\Sysdev\source\repos\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+C:\Users\Sysdev\source\repos\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csprojAssemblyReference.cache
+C:\Users\Sysdev\source\repos\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form1.resources
+C:\Users\Sysdev\source\repos\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+C:\Users\Sysdev\source\repos\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.cache
+C:\Users\Sysdev\source\repos\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CoreCompileInputs.cache
+C:\Users\Sysdev\source\repos\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+C:\Users\Sysdev\source\repos\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
+C:\Users\Sysdev\source\repos\WindowsFormsApp6\bin\Debug\ConfigAPI.xml

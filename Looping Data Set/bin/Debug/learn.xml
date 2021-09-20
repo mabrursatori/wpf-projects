@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table1>
+    <Config_x0020_API_x0020_1>Core UI Address</Config_x0020_API_x0020_1>
+    <Detail_x0020_API_x0020_2>HTTP://Localhost:3233</Detail_x0020_API_x0020_2>
+  </Table1>
+  <Table1>
+    <Config_x0020_API_x0020_1>Core Apps Address</Config_x0020_API_x0020_1>
+    <Detail_x0020_API_x0020_2>Http://Localhost:3333</Detail_x0020_API_x0020_2>
+  </Table1>
+  <Table1>
+    <Config_x0020_API_x0020_1>Nian</Config_x0020_API_x0020_1>
+    <Detail_x0020_API_x0020_2>Http://Localhost:3001</Detail_x0020_API_x0020_2>
+  </Table1>
+  <Table1>
+    <Config_x0020_API_x0020_1>Liskarm</Config_x0020_API_x0020_1>
+    <Detail_x0020_API_x0020_2>Http://Localhost:3002</Detail_x0020_API_x0020_2>
+  </Table1>
+</NewDataSet>PrinterAddress

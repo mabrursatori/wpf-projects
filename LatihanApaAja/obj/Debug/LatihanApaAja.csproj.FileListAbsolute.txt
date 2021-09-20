@@ -1,0 +1,11 @@
+C:\Users\Sysdev\source\repos\LatihanApaAja\bin\Debug\LatihanApaAja.exe.config
+C:\Users\Sysdev\source\repos\LatihanApaAja\bin\Debug\LatihanApaAja.exe
+C:\Users\Sysdev\source\repos\LatihanApaAja\bin\Debug\LatihanApaAja.pdb
+C:\Users\Sysdev\source\repos\LatihanApaAja\obj\Debug\LatihanApaAja.csprojAssemblyReference.cache
+C:\Users\Sysdev\source\repos\LatihanApaAja\obj\Debug\LatihanApaAja.Form1.resources
+C:\Users\Sysdev\source\repos\LatihanApaAja\obj\Debug\LatihanApaAja.Properties.Resources.resources
+C:\Users\Sysdev\source\repos\LatihanApaAja\obj\Debug\LatihanApaAja.csproj.GenerateResource.cache
+C:\Users\Sysdev\source\repos\LatihanApaAja\obj\Debug\LatihanApaAja.csproj.CoreCompileInputs.cache
+C:\Users\Sysdev\source\repos\LatihanApaAja\obj\Debug\LatihanApaAja.exe
+C:\Users\Sysdev\source\repos\LatihanApaAja\obj\Debug\LatihanApaAja.pdb
+C:\Users\Sysdev\source\repos\LatihanApaAja\obj\Debug\LatihanApaAja.LatihanDataSet.resources

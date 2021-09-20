@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "CVZO24LDh7rlLgz2nbypx5F4HignYEeW0pUGa1xmqut4EybkEP2n4ocxkD6BxrH5DAtBnLJy1Sm778XX9tPigQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sysdev\\source\\repos\\ClassLibraryTest\\ClassLibraryTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sysdev\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Sysdev\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Sysdev\\.nuget\\packages\\node.js\\0.12.7\\node.js.0.12.7.nupkg.sha512",
+    "C:\\Users\\Sysdev\\.nuget\\packages\\nogit\\0.1.0\\nogit.0.1.0.nupkg.sha512",
+    "C:\\Users\\Sysdev\\.nuget\\packages\\npm\\3.5.2\\npm.3.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}

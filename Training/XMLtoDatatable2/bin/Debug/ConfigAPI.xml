@@ -1,0 +1,16 @@
+<ConfigAPI>
+  <UIPlayer>Yes</UIPlayer> 
+  <ForcePlayer>N</ForcePlayer>
+  <CoreWriteLog>Y</CoreWriteLog>
+  <StatusRetry>1000</StatusRetry>
+  <TimeOut>100000</TimeOut>
+  <Branch>63</Branch>
+  <Terminal>4</Terminal>
+</ConfigAPI>
+<TableAstaga>
+	<Name> Yosua Cahyadi Kurniawan</Name>
+	<Kunci> 1198 </Kunci>
+	<Pendidikan> S1 </Pendidikan>
+
+
+ </TableAstaga>

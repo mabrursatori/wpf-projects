@@ -1,0 +1,15 @@
+C:\Users\Sysdev\source\repos\WPFtutorial\bin\Debug\WPFtutorial.exe.config
+C:\Users\Sysdev\source\repos\WPFtutorial\bin\Debug\WPFtutorial.exe
+C:\Users\Sysdev\source\repos\WPFtutorial\bin\Debug\WPFtutorial.pdb
+C:\Users\Sysdev\source\repos\WPFtutorial\obj\Debug\WPFtutorial.csprojAssemblyReference.cache
+C:\Users\Sysdev\source\repos\WPFtutorial\obj\Debug\MainWindow.g.cs
+C:\Users\Sysdev\source\repos\WPFtutorial\obj\Debug\App.g.cs
+C:\Users\Sysdev\source\repos\WPFtutorial\obj\Debug\WPFtutorial_MarkupCompile.cache
+C:\Users\Sysdev\source\repos\WPFtutorial\obj\Debug\WPFtutorial_MarkupCompile.lref
+C:\Users\Sysdev\source\repos\WPFtutorial\obj\Debug\MainWindow.baml
+C:\Users\Sysdev\source\repos\WPFtutorial\obj\Debug\WPFtutorial.g.resources
+C:\Users\Sysdev\source\repos\WPFtutorial\obj\Debug\WPFtutorial.Properties.Resources.resources
+C:\Users\Sysdev\source\repos\WPFtutorial\obj\Debug\WPFtutorial.csproj.GenerateResource.cache
+C:\Users\Sysdev\source\repos\WPFtutorial\obj\Debug\WPFtutorial.csproj.CoreCompileInputs.cache
+C:\Users\Sysdev\source\repos\WPFtutorial\obj\Debug\WPFtutorial.exe
+C:\Users\Sysdev\source\repos\WPFtutorial\obj\Debug\WPFtutorial.pdb

@@ -1,0 +1,12 @@
+C:\Users\Sysdev\source\repos\ConsoleApp5\bin\Debug\netcoreapp3.1\ConsoleApp5.exe
+C:\Users\Sysdev\source\repos\ConsoleApp5\bin\Debug\netcoreapp3.1\ConsoleApp5.deps.json
+C:\Users\Sysdev\source\repos\ConsoleApp5\bin\Debug\netcoreapp3.1\ConsoleApp5.runtimeconfig.json
+C:\Users\Sysdev\source\repos\ConsoleApp5\bin\Debug\netcoreapp3.1\ConsoleApp5.runtimeconfig.dev.json
+C:\Users\Sysdev\source\repos\ConsoleApp5\bin\Debug\netcoreapp3.1\ConsoleApp5.dll
+C:\Users\Sysdev\source\repos\ConsoleApp5\bin\Debug\netcoreapp3.1\ConsoleApp5.pdb
+C:\Users\Sysdev\source\repos\ConsoleApp5\obj\Debug\netcoreapp3.1\ConsoleApp5.AssemblyInfoInputs.cache
+C:\Users\Sysdev\source\repos\ConsoleApp5\obj\Debug\netcoreapp3.1\ConsoleApp5.AssemblyInfo.cs
+C:\Users\Sysdev\source\repos\ConsoleApp5\obj\Debug\netcoreapp3.1\ConsoleApp5.csproj.CoreCompileInputs.cache
+C:\Users\Sysdev\source\repos\ConsoleApp5\obj\Debug\netcoreapp3.1\ConsoleApp5.dll
+C:\Users\Sysdev\source\repos\ConsoleApp5\obj\Debug\netcoreapp3.1\ConsoleApp5.pdb
+C:\Users\Sysdev\source\repos\ConsoleApp5\obj\Debug\netcoreapp3.1\ConsoleApp5.genruntimeconfig.cache

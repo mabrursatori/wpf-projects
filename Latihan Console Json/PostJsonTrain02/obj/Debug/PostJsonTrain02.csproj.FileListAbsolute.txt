@@ -1,0 +1,10 @@
+C:\Users\Sysdev\source\repos\Latihan Console Json\PostJsonTrain02\bin\Debug\PostJsonTrain02.exe.config
+C:\Users\Sysdev\source\repos\Latihan Console Json\PostJsonTrain02\bin\Debug\PostJsonTrain02.exe
+C:\Users\Sysdev\source\repos\Latihan Console Json\PostJsonTrain02\bin\Debug\PostJsonTrain02.pdb
+C:\Users\Sysdev\source\repos\Latihan Console Json\PostJsonTrain02\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sysdev\source\repos\Latihan Console Json\PostJsonTrain02\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sysdev\source\repos\Latihan Console Json\PostJsonTrain02\obj\Debug\PostJsonTrain02.csprojAssemblyReference.cache
+C:\Users\Sysdev\source\repos\Latihan Console Json\PostJsonTrain02\obj\Debug\PostJsonTrain02.csproj.CoreCompileInputs.cache
+C:\Users\Sysdev\source\repos\Latihan Console Json\PostJsonTrain02\obj\Debug\PostJsonTrain02.csproj.CopyComplete
+C:\Users\Sysdev\source\repos\Latihan Console Json\PostJsonTrain02\obj\Debug\PostJsonTrain02.exe
+C:\Users\Sysdev\source\repos\Latihan Console Json\PostJsonTrain02\obj\Debug\PostJsonTrain02.pdb

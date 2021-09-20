@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "blW7XSh3GEmBYixONjzHF5gLJRcemjrB2W+FPrkjulo+g1y5Z8g54z5aR975u92t7dyqWdHzjv4SaLqLS+9aAQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sysdev\\source\\repos\\ProjectConsoleDiSini\\ProjectConsoleDiSini.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sysdev\\.nuget\\packages\\node.js\\0.12.7\\node.js.0.12.7.nupkg.sha512",
+    "C:\\Users\\Sysdev\\.nuget\\packages\\nogit\\0.1.0\\nogit.0.1.0.nupkg.sha512",
+    "C:\\Users\\Sysdev\\.nuget\\packages\\npm\\3.5.2\\npm.3.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}

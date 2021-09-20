@@ -1,0 +1,15 @@
+C:\Users\Sysdev\source\repos\Latihan Console Json\bin\Debug\netcoreapp3.1\Latihan Console Json.exe
+C:\Users\Sysdev\source\repos\Latihan Console Json\bin\Debug\netcoreapp3.1\Latihan Console Json.deps.json
+C:\Users\Sysdev\source\repos\Latihan Console Json\bin\Debug\netcoreapp3.1\Latihan Console Json.runtimeconfig.json
+C:\Users\Sysdev\source\repos\Latihan Console Json\bin\Debug\netcoreapp3.1\Latihan Console Json.runtimeconfig.dev.json
+C:\Users\Sysdev\source\repos\Latihan Console Json\bin\Debug\netcoreapp3.1\Latihan Console Json.dll
+C:\Users\Sysdev\source\repos\Latihan Console Json\bin\Debug\netcoreapp3.1\Latihan Console Json.pdb
+C:\Users\Sysdev\source\repos\Latihan Console Json\obj\Debug\netcoreapp3.1\Latihan Console Json.csprojAssemblyReference.cache
+C:\Users\Sysdev\source\repos\Latihan Console Json\obj\Debug\netcoreapp3.1\Latihan Console Json.AssemblyInfoInputs.cache
+C:\Users\Sysdev\source\repos\Latihan Console Json\obj\Debug\netcoreapp3.1\Latihan Console Json.AssemblyInfo.cs
+C:\Users\Sysdev\source\repos\Latihan Console Json\obj\Debug\netcoreapp3.1\Latihan Console Json.dll
+C:\Users\Sysdev\source\repos\Latihan Console Json\obj\Debug\netcoreapp3.1\Latihan Console Json.pdb
+C:\Users\Sysdev\source\repos\Latihan Console Json\obj\Debug\netcoreapp3.1\Latihan Console Json.genruntimeconfig.cache
+C:\Users\Sysdev\source\repos\Latihan Console Json\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Sysdev\source\repos\Latihan Console Json\obj\Debug\netcoreapp3.1\Latihan Console Json.csproj.CoreCompileInputs.cache
+C:\Users\Sysdev\source\repos\Latihan Console Json\obj\Debug\netcoreapp3.1\Latihan Console Json.csproj.CopyComplete

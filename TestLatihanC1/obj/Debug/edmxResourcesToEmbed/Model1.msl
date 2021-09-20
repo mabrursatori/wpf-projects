@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DB_DEMOModelStoreContainer" CdmEntityContainer="DB_DEMOEntities">
+    <EntitySetMapping Name="COM_CUSTOMER">
+      <EntityTypeMapping TypeName="DB_DEMOModel.COM_CUSTOMER">
+        <MappingFragment StoreEntitySet="COM_CUSTOMER">
+          <ScalarProperty Name="COM_CUSTOMER_ID" ColumnName="COM_CUSTOMER_ID" />
+          <ScalarProperty Name="CUSTOMER_NAME" ColumnName="CUSTOMER_NAME" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SALES_SO">
+      <EntityTypeMapping TypeName="DB_DEMOModel.SALES_SO">
+        <MappingFragment StoreEntitySet="SALES_SO">
+          <ScalarProperty Name="SALES_SO_ID" ColumnName="SALES_SO_ID" />
+          <ScalarProperty Name="SO_NO" ColumnName="SO_NO" />
+          <ScalarProperty Name="ORDER_DATE" ColumnName="ORDER_DATE" />
+          <ScalarProperty Name="COM_CUSTOMER_ID" ColumnName="COM_CUSTOMER_ID" />
+          <ScalarProperty Name="ADDRESS" ColumnName="ADDRESS" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SALES_SO_LITEM">
+      <EntityTypeMapping TypeName="DB_DEMOModel.SALES_SO_LITEM">
+        <MappingFragment StoreEntitySet="SALES_SO_LITEM">
+          <ScalarProperty Name="SALES_SO_LITEM_ID" ColumnName="SALES_SO_LITEM_ID" />
+          <ScalarProperty Name="SALES_SO_ID" ColumnName="SALES_SO_ID" />
+          <ScalarProperty Name="ITEM_NAME" ColumnName="ITEM_NAME" />
+          <ScalarProperty Name="QUANTITY" ColumnName="QUANTITY" />
+          <ScalarProperty Name="PRICE" ColumnName="PRICE" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

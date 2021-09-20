@@ -1,0 +1,13 @@
+C:\Users\Sysdev\source\repos\looparray\bin\Debug\netcoreapp3.1\looparray.exe
+C:\Users\Sysdev\source\repos\looparray\bin\Debug\netcoreapp3.1\looparray.deps.json
+C:\Users\Sysdev\source\repos\looparray\bin\Debug\netcoreapp3.1\looparray.runtimeconfig.json
+C:\Users\Sysdev\source\repos\looparray\bin\Debug\netcoreapp3.1\looparray.runtimeconfig.dev.json
+C:\Users\Sysdev\source\repos\looparray\bin\Debug\netcoreapp3.1\looparray.dll
+C:\Users\Sysdev\source\repos\looparray\bin\Debug\netcoreapp3.1\looparray.pdb
+C:\Users\Sysdev\source\repos\looparray\obj\Debug\netcoreapp3.1\looparray.csprojAssemblyReference.cache
+C:\Users\Sysdev\source\repos\looparray\obj\Debug\netcoreapp3.1\looparray.AssemblyInfoInputs.cache
+C:\Users\Sysdev\source\repos\looparray\obj\Debug\netcoreapp3.1\looparray.AssemblyInfo.cs
+C:\Users\Sysdev\source\repos\looparray\obj\Debug\netcoreapp3.1\looparray.csproj.CoreCompileInputs.cache
+C:\Users\Sysdev\source\repos\looparray\obj\Debug\netcoreapp3.1\looparray.dll
+C:\Users\Sysdev\source\repos\looparray\obj\Debug\netcoreapp3.1\looparray.pdb
+C:\Users\Sysdev\source\repos\looparray\obj\Debug\netcoreapp3.1\looparray.genruntimeconfig.cache

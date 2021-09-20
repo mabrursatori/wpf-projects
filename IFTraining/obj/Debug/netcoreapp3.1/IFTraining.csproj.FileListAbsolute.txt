@@ -1,0 +1,12 @@
+C:\Users\Sysdev\source\repos\IFTraining\obj\Debug\netcoreapp3.1\IFTraining.AssemblyInfoInputs.cache
+C:\Users\Sysdev\source\repos\IFTraining\obj\Debug\netcoreapp3.1\IFTraining.AssemblyInfo.cs
+C:\Users\Sysdev\source\repos\IFTraining\bin\Debug\netcoreapp3.1\IFTraining.exe
+C:\Users\Sysdev\source\repos\IFTraining\bin\Debug\netcoreapp3.1\IFTraining.deps.json
+C:\Users\Sysdev\source\repos\IFTraining\bin\Debug\netcoreapp3.1\IFTraining.runtimeconfig.json
+C:\Users\Sysdev\source\repos\IFTraining\bin\Debug\netcoreapp3.1\IFTraining.runtimeconfig.dev.json
+C:\Users\Sysdev\source\repos\IFTraining\bin\Debug\netcoreapp3.1\IFTraining.dll
+C:\Users\Sysdev\source\repos\IFTraining\bin\Debug\netcoreapp3.1\IFTraining.pdb
+C:\Users\Sysdev\source\repos\IFTraining\obj\Debug\netcoreapp3.1\IFTraining.dll
+C:\Users\Sysdev\source\repos\IFTraining\obj\Debug\netcoreapp3.1\IFTraining.pdb
+C:\Users\Sysdev\source\repos\IFTraining\obj\Debug\netcoreapp3.1\IFTraining.genruntimeconfig.cache
+C:\Users\Sysdev\source\repos\IFTraining\obj\Debug\netcoreapp3.1\IFTraining.csprojAssemblyReference.cache

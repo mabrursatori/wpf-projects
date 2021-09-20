@@ -1,0 +1,10 @@
+C:\Users\Sysdev\source\repos\Training\ConnectingSQL\bin\Debug\ConnectingSQL.exe.config
+C:\Users\Sysdev\source\repos\Training\ConnectingSQL\bin\Debug\ConnectingSQL.exe
+C:\Users\Sysdev\source\repos\Training\ConnectingSQL\bin\Debug\ConnectingSQL.pdb
+C:\Users\Sysdev\source\repos\Training\ConnectingSQL\obj\Debug\ConnectingSQL.csprojAssemblyReference.cache
+C:\Users\Sysdev\source\repos\Training\ConnectingSQL\obj\Debug\ConnectingSQL.Form1.resources
+C:\Users\Sysdev\source\repos\Training\ConnectingSQL\obj\Debug\ConnectingSQL.Properties.Resources.resources
+C:\Users\Sysdev\source\repos\Training\ConnectingSQL\obj\Debug\ConnectingSQL.csproj.GenerateResource.cache
+C:\Users\Sysdev\source\repos\Training\ConnectingSQL\obj\Debug\ConnectingSQL.csproj.CoreCompileInputs.cache
+C:\Users\Sysdev\source\repos\Training\ConnectingSQL\obj\Debug\ConnectingSQL.exe
+C:\Users\Sysdev\source\repos\Training\ConnectingSQL\obj\Debug\ConnectingSQL.pdb

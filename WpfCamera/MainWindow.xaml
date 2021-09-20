@@ -1,0 +1,19 @@
+﻿<Window x:Class="WpfCamera.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfCamera"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" Loaded="Window_Loaded" Closing="Window_Closing">
+    <StackPanel Orientation="Vertical">
+        <ComboBox x:Name="cboCamera"/>
+        <ContentControl Background="Red" x:Name="cc" Width="200" Height="200"/>
+
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+            <Button Click="Button_Click_1">Catch</Button>
+            <Button Click="Button_Click">Start</Button>
+        </StackPanel>
+        <Image x:Name="img"></Image>
+    </StackPanel>
+</Window>
